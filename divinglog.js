@@ -60,8 +60,8 @@ url = window.location.origin + '/json/Brevets_summary.json';
 generateHtmlTableRows("brevets_table", url);
 */
 generateHtmlTableRows("logbook_table", '/json/Logbook_summary.json');
-generateHtmlTableRows("trip_table", '/json/Trip_summary.json';
-generateHtmlTableRows("place_table", '/json/Place_summary.json';    
+generateHtmlTableRows("trip_table", '/json/Trip_summary.json');
+generateHtmlTableRows("place_table", '/json/Place_summary.json');    
 generateHtmlTableRows("buddy_table", '/json/Buddy_summary.json');    
 generateHtmlTableRows("equipment_table", '/json/Equipment_summary.json');
 generateHtmlTableRows("brevets_table", '/json/Brevets_summary.json');
