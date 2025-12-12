@@ -45,6 +45,7 @@ fetch('about.html')
 
 // load summary tables, json files are in /json/ folder
 // then generate HTML table rows
+/*
 url = window.location.origin + '/json/Logbook_summary.json';
 generateHtmlTableRows("logbook_table", url);
 url = window.location.origin + '/json/Trip_summary.json';
@@ -57,6 +58,13 @@ url = window.location.origin + '/json/Equipment_summary.json';
 generateHtmlTableRows("equipment_table", url);
 url = window.location.origin + '/json/Brevets_summary.json';
 generateHtmlTableRows("brevets_table", url);
+*/
+generateHtmlTableRows("logbook_table", '/json/Logbook_summary.json');
+generateHtmlTableRows("trip_table", '/json/Trip_summary.json';
+generateHtmlTableRows("place_table", '/json/Place_summary.json';    
+generateHtmlTableRows("buddy_table", '/json/Buddy_summary.json');    
+generateHtmlTableRows("equipment_table", '/json/Equipment_summary.json');
+generateHtmlTableRows("brevets_table", '/json/Brevets_summary.json');
 
 // if gallery use is disabled, hide Photos button
 if (typeof GALLERY_USE === 'undefined' || GALLERY_USE === false){
@@ -64,8 +72,8 @@ if (typeof GALLERY_USE === 'undefined' || GALLERY_USE === false){
   document.getElementById("PhotosButton").style.display = "none";
 } else {
   console.log("Gallery use is enabled");
-  url = window.location.origin + '/json/gallery.json'; 
-  get_gallery(url);
+  //url = window.location.origin + '/json/gallery.json'; 
+  get_gallery('/json/gallery.json');
 } 
  
 
