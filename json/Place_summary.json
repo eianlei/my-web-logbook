@@ -1,0 +1,3236 @@
+[
+  {
+    "ID": 608,
+    "Place": "VAM",
+    "Lat": "60°9'8.58\"N",
+    "Lon": "24°46'3.48\"E"
+  },
+  {
+    "ID": 607,
+    "Place": "Strassa",
+    "Lat": "68°25'1.2\"N",
+    "Lon": "17°24'21.6\"E"
+  },
+  {
+    "ID": 606,
+    "Place": "Kaijatsaaren Saunaniemi",
+    "Lat": "61°24'57.24\"N",
+    "Lon": "27°38'40.2\"E"
+  },
+  {
+    "ID": 605,
+    "Place": "Small Giftun",
+    "Lat": "27°11'6.96\"N",
+    "Lon": "33°59'0.12\"E"
+  },
+  {
+    "ID": 604,
+    "Place": "Abu Ramada",
+    "Lat": "27°9'29.64\"N",
+    "Lon": "33°58'45.24\"E"
+  },
+  {
+    "ID": 603,
+    "Place": "Ras Abu Soma",
+    "Lat": "26°50'41.64\"N",
+    "Lon": "34°0'20.16\"E"
+  },
+  {
+    "ID": 601,
+    "Place": "Hila louhos",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 600,
+    "Place": "Ronnkobben",
+    "Lat": "60°7'17.58\"N",
+    "Lon": "24°47'26.64\"E"
+  },
+  {
+    "ID": 599,
+    "Place": "Enigheten",
+    "Lat": "60°5'12.12\"N",
+    "Lon": "21°57'43.56\"E"
+  },
+  {
+    "ID": 598,
+    "Place": "Trunso laiturin edusta",
+    "Lat": "59°52'56.28\"N",
+    "Lon": "21°46'21.36\"E"
+  },
+  {
+    "ID": 597,
+    "Place": "Skeppsbadarnan itapuolen hylky",
+    "Lat": "59°45'10.8\"N",
+    "Lon": "21°50'52.14\"E"
+  },
+  {
+    "ID": 596,
+    "Place": "Svarthallen",
+    "Lat": "59°58'47.22\"N",
+    "Lon": "24°35'23.94\"E"
+  },
+  {
+    "ID": 595,
+    "Place": "Habili Radir",
+    "Lat": "24°51'56.77\"N",
+    "Lon": "35°6'58.38\"E"
+  },
+  {
+    "ID": 594,
+    "Place": "Shaab Maksour south plateau and west wall",
+    "Lat": "24°14'17.52\"N",
+    "Lon": "35°39'14.11\"E"
+  },
+  {
+    "ID": 593,
+    "Place": "Small Gota St. Johns",
+    "Lat": "23°25'41.32\"N",
+    "Lon": "35°54'14.07\"E"
+  },
+  {
+    "ID": 592,
+    "Place": "Umm Arouk",
+    "Lat": "23°25'49.85\"N",
+    "Lon": "35°51'52.03\"E"
+  },
+  {
+    "ID": 591,
+    "Place": "Zabargad wreck",
+    "Lat": "23°36'51.24\"N",
+    "Lon": "36°12'23.16\"E"
+  },
+  {
+    "ID": 590,
+    "Place": "Eagle Nest (Misool)",
+    "Lat": "2°14'51.45\"S",
+    "Lon": "130°37'22.04\"E"
+  },
+  {
+    "ID": 589,
+    "Place": "Figure 8 Rock",
+    "Lat": "0°10'18.84\"N",
+    "Lon": "130°0'26.14\"E"
+  },
+  {
+    "ID": 588,
+    "Place": "Pinang Bay",
+    "Lat": "0°10'13.44\"N",
+    "Lon": "130°1'4.37\"E"
+  },
+  {
+    "ID": 587,
+    "Place": "Andiamo (Misool Daram)",
+    "Lat": "2°6'9.47\"S",
+    "Lon": "130°51'23.08\"E"
+  },
+  {
+    "ID": 586,
+    "Place": "Warna Warni (Daram)",
+    "Lat": "2°5'48.81\"S",
+    "Lon": "130°52'20.03\"E"
+  },
+  {
+    "ID": 585,
+    "Place": "Romeo (Misool)",
+    "Lat": "2°11'28.68\"S",
+    "Lon": "130°36'30.06\"E"
+  },
+  {
+    "ID": 584,
+    "Place": "Tank Rock (Misool)",
+    "Lat": "2°12'30.28\"S",
+    "Lon": "130°33'14.4\"E"
+  },
+  {
+    "ID": 583,
+    "Place": "Dunia Kecil (Misool)",
+    "Lat": "2°13'16.18\"S",
+    "Lon": "130°27'10.8\"E"
+  },
+  {
+    "ID": 582,
+    "Place": "Four Kings (Misool)",
+    "Lat": "2°12'11.52\"S",
+    "Lon": "130°22'42.6\"E"
+  },
+  {
+    "ID": 581,
+    "Place": "Wedding Cake (Misool)",
+    "Lat": "2°12'16.99\"S",
+    "Lon": "130°25'9.91\"E"
+  },
+  {
+    "ID": 580,
+    "Place": "Ninja (Misool)",
+    "Lat": "2°11'54.2\"S",
+    "Lon": "130°25'45.74\"E"
+  },
+  {
+    "ID": 579,
+    "Place": "Kaleidoscope (Misool)",
+    "Lat": "2°10'54.52\"S",
+    "Lon": "130°12'59.33\"E"
+  },
+  {
+    "ID": 578,
+    "Place": "Barracuda Rock (Misool)",
+    "Lat": "2°11'43.26\"S",
+    "Lon": "130°25'38.78\"E"
+  },
+  {
+    "ID": 577,
+    "Place": "Ranger (Misool)",
+    "Lat": "2°11'28.68\"S",
+    "Lon": "130°36'28.44\"E"
+  },
+  {
+    "ID": 576,
+    "Place": "Puri Pinnacle (Misool)",
+    "Lat": "2°12'47.38\"S",
+    "Lon": "130°33'55.04\"E"
+  },
+  {
+    "ID": 575,
+    "Place": "Yellit Kecil or Juliette (Misool)",
+    "Lat": "2°11'45.42\"S",
+    "Lon": "130°36'37.22\"E"
+  },
+  {
+    "ID": 574,
+    "Place": "Two Trees (Misool)",
+    "Lat": "2°2'1.75\"S",
+    "Lon": "130°43'26.72\"E"
+  },
+  {
+    "ID": 573,
+    "Place": "Melissa_s Garden",
+    "Lat": "0°35'27.28\"S",
+    "Lon": "130°18'25.24\"E"
+  },
+  {
+    "ID": 572,
+    "Place": "Batu Rufas (Piaynemu)",
+    "Lat": "0°35'38.26\"S",
+    "Lon": "130°18'1.94\"E"
+  },
+  {
+    "ID": 571,
+    "Place": "My Reef (Raynemu)",
+    "Lat": "0°36'31.25\"S",
+    "Lon": "130°17'24.43\"E"
+  },
+  {
+    "ID": 570,
+    "Place": "Sapokren beach",
+    "Lat": "0°26'22.32\"S",
+    "Lon": "130°43'44.94\"E"
+  },
+  {
+    "ID": 569,
+    "Place": "Chicken Reef",
+    "Lat": "0°31'12.77\"S",
+    "Lon": "130°42'30.48\"E"
+  },
+  {
+    "ID": 568,
+    "Place": "Sawandrek Jetty",
+    "Lat": "0°35'32.61\"S",
+    "Lon": "130°36'12.58\"E"
+  },
+  {
+    "ID": 567,
+    "Place": "Mayhem",
+    "Lat": "0°30'31.1\"S",
+    "Lon": "130°26'45.49\"E"
+  },
+  {
+    "ID": 566,
+    "Place": "Edi_s Black Forest",
+    "Lat": "0°15'8.46\"S",
+    "Lon": "130°17'9.6\"E"
+  },
+  {
+    "ID": 565,
+    "Place": "Channel Rock",
+    "Lat": "0°10'14.12\"N",
+    "Lon": "130°0'23.86\"E"
+  },
+  {
+    "ID": 564,
+    "Place": "Black Rock",
+    "Lat": "0°4'2.46\"S",
+    "Lon": "130°4'52.5\"E"
+  },
+  {
+    "ID": 563,
+    "Place": "Eagle Rock",
+    "Lat": "0°8'45.17\"S",
+    "Lon": "130°7'10.02\"E"
+  },
+  {
+    "ID": 562,
+    "Place": "Taman Wofoh",
+    "Lat": "0°14'50.39\"S",
+    "Lon": "130°17'26.34\"E"
+  },
+  {
+    "ID": 561,
+    "Place": "Josefina",
+    "Lat": "44°46'59.26\"N",
+    "Lon": "13°39'22.26\"E"
+  },
+  {
+    "ID": 560,
+    "Place": "Draga",
+    "Lat": "44°45'59.43\"N",
+    "Lon": "13°49'38.05\"E"
+  },
+  {
+    "ID": 559,
+    "Place": "John Gilmore",
+    "Lat": "44°50'12.57\"N",
+    "Lon": "13°36'54.53\"E"
+  },
+  {
+    "ID": 557,
+    "Place": "Vis Tito admiral ship",
+    "Lat": "44°46'59.74\"N",
+    "Lon": "13°53'54.02\"E"
+  },
+  {
+    "ID": 555,
+    "Place": "Argo",
+    "Lat": "44°52'8.69\"N",
+    "Lon": "14°12'1.73\"E"
+  },
+  {
+    "ID": 554,
+    "Place": "Luana",
+    "Lat": "44°42'6.91\"N",
+    "Lon": "13°59'49.27\"E"
+  },
+  {
+    "ID": 553,
+    "Place": "Cesare Rossarol",
+    "Lat": "44°50'29.11\"N",
+    "Lon": "14°0'25.81\"E"
+  },
+  {
+    "ID": 552,
+    "Place": "Lina",
+    "Lat": "45°6'13.54\"N",
+    "Lon": "14°16'36.98\"E"
+  },
+  {
+    "ID": 551,
+    "Place": "Vis (ex. Renteria)",
+    "Lat": "45°7'27.19\"N",
+    "Lon": "14°13'2.64\"E"
+  },
+  {
+    "ID": 550,
+    "Place": "Varese",
+    "Lat": "44°49'53.2\"N",
+    "Lon": "13°41'7.3\"E"
+  },
+  {
+    "ID": 549,
+    "Place": "Hans Schmidt",
+    "Lat": "44°54'17.58\"N",
+    "Lon": "13°35'13.92\"E"
+  },
+  {
+    "ID": 548,
+    "Place": "Louekari",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 547,
+    "Place": "Akeneset hill",
+    "Lat": "68°42'0.66\"N",
+    "Lon": "17°28'43.44\"E"
+  },
+  {
+    "ID": 546,
+    "Place": "Anton Schmitt",
+    "Lat": "68°26'4.16\"N",
+    "Lon": "17°22'41.41\"E"
+  },
+  {
+    "ID": 545,
+    "Place": "Strassa and M_H_Fisser",
+    "Lat": "68°25'7.28\"N",
+    "Lon": "17°24'19.55\"E"
+  },
+  {
+    "ID": 544,
+    "Place": "Dornier flying boat",
+    "Lat": "68°24'36.17\"N",
+    "Lon": "17°49'43.5\"E"
+  },
+  {
+    "ID": 543,
+    "Place": "Georg Thiele",
+    "Lat": "68°24'38.44\"N",
+    "Lon": "17°48'5.86\"E"
+  },
+  {
+    "ID": 542,
+    "Place": "Neuenfels",
+    "Lat": "68°25'12.58\"N",
+    "Lon": "17°23'53.7\"E"
+  },
+  {
+    "ID": 541,
+    "Place": "Romanby",
+    "Lat": "68°25'16.98\"N",
+    "Lon": "17°23'31.67\"E"
+  },
+  {
+    "ID": 540,
+    "Place": "Dronning Maud",
+    "Lat": "68°41'27.66\"N",
+    "Lon": "17°26'20.07\"E"
+  },
+  {
+    "ID": 538,
+    "Place": "Aquarium (Gota Abu Ramada)",
+    "Lat": "27°8'26.88\"N",
+    "Lon": "33°57'16.32\"E"
+  },
+  {
+    "ID": 537,
+    "Place": "Shaab Sheer",
+    "Lat": "26°39'32.82\"N",
+    "Lon": "34°3'24.3\"E"
+  },
+  {
+    "ID": 536,
+    "Place": "Saarenmaa seals",
+    "Lat": "58°33'23.16\"N",
+    "Lon": "21°55'40.89\"E"
+  },
+  {
+    "ID": 534,
+    "Place": "Malapascua Lighthouse",
+    "Lat": "11°20'31.52\"N",
+    "Lon": "124°6'35.71\"E"
+  },
+  {
+    "ID": 533,
+    "Place": "Zabargad north wall",
+    "Lat": "23°37'16.5\"N",
+    "Lon": "36°12'2.3\"E"
+  },
+  {
+    "ID": 532,
+    "Place": "Yubae Maru",
+    "Lat": "7°18'11.58\"N",
+    "Lon": "151°50'31.35\"E"
+  },
+  {
+    "ID": 531,
+    "Place": "Yamagiri Maru",
+    "Lat": "7°23'0.2\"N",
+    "Lon": "151°49'17.4\"E"
+  },
+  {
+    "ID": 530,
+    "Place": "West of Six",
+    "Lat": "8°35'27.92\"N",
+    "Lon": "97°38'4.92\"E"
+  },
+  {
+    "ID": 529,
+    "Place": "Wasa",
+    "Lat": "59°48'7.8\"N",
+    "Lon": "24°4'3.24\"E"
+  },
+  {
+    "ID": 528,
+    "Place": "Sardine Reef (Waigeo)",
+    "Lat": "0°32'30.66\"S",
+    "Lon": "130°42'30.96\"E"
+  },
+  {
+    "ID": 527,
+    "Place": "Mioskon (Waigeo)",
+    "Lat": "0°29'50.4\"S",
+    "Lon": "130°43'37.2\"E"
+  },
+  {
+    "ID": 526,
+    "Place": "Mike_s Point at Waigeo",
+    "Lat": "0°28'44.15\"S",
+    "Lon": "130°41'23.73\"E"
+  },
+  {
+    "ID": 525,
+    "Place": "Manta Mantra (Waigeo)",
+    "Lat": "0°34'56.43\"S",
+    "Lon": "130°33'32.4\"E"
+  },
+  {
+    "ID": 524,
+    "Place": "Friwibonda (Waigeo)",
+    "Lat": "0°28'54.08\"S",
+    "Lon": "130°41'55.1\"E"
+  },
+  {
+    "ID": 523,
+    "Place": "De Puta Madre or Blue Paradise (Waigeo)",
+    "Lat": "0°31'7.63\"S",
+    "Lon": "130°42'32.4\"E"
+  },
+  {
+    "ID": 522,
+    "Place": "Citrus Ridge (Waigeo)",
+    "Lat": "0°36'33.17\"S",
+    "Lon": "130°33'6.26\"E"
+  },
+  {
+    "ID": 520,
+    "Place": "Arborek Jetty (Waigeo)",
+    "Lat": "0°33'49.68\"S",
+    "Lon": "130°31'11.21\"E"
+  },
+  {
+    "ID": 519,
+    "Place": "Vilivaru Giri",
+    "Lat": "3°54'15.9\"N",
+    "Lon": "73°26'49.48\"E"
+  },
+  {
+    "ID": 518,
+    "Place": "Viligili Kandu (Gaafu)",
+    "Lat": "0°44'39.8\"N",
+    "Lon": "73°26'19.68\"E"
+  },
+  {
+    "ID": 517,
+    "Place": "View Point",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 515,
+    "Place": "Vargen luodon hylky",
+    "Lat": "60°5'46.26\"N",
+    "Lon": "24°41'42.54\"E"
+  },
+  {
+    "ID": 513,
+    "Place": "Valley of the Ray (Meemu)",
+    "Lat": "2°45'38.88\"N",
+    "Lon": "73°22'35.94\"E"
+  },
+  {
+    "ID": 512,
+    "Place": "Vaaksi",
+    "Lat": "60°29'4.86\"N",
+    "Lon": "24°40'16.8\"E"
+  },
+  {
+    "ID": 511,
+    "Place": "Vaagali Caves",
+    "Lat": "3°57'3.02\"N",
+    "Lon": "73°21'13.57\"E"
+  },
+  {
+    "ID": 510,
+    "Place": "Vaagali Balcony",
+    "Lat": "3°56'25.69\"N",
+    "Lon": "73°21'10.22\"E"
+  },
+  {
+    "ID": 509,
+    "Place": "Unknown wreck number 423",
+    "Lat": "58°52'48.9\"N",
+    "Lon": "22°3'2.04\"E"
+  },
+  {
+    "ID": 508,
+    "Place": "Unkai Maru",
+    "Lat": "7°19'21\"N",
+    "Lon": "151°53'4.24\"E"
+  },
+  {
+    "ID": 507,
+    "Place": "Umm Gamar",
+    "Lat": "27°21'13.21\"N",
+    "Lon": "33°54'23.83\"E"
+  },
+  {
+    "ID": 506,
+    "Place": "Um Urog",
+    "Lat": "23°25'50.4\"N",
+    "Lon": "35°51'52.74\"E"
+  },
+  {
+    "ID": 504,
+    "Place": "Ulvingen",
+    "Lat": "59°46'25.73\"N",
+    "Lon": "21°26'26.75\"E"
+  },
+  {
+    "ID": 503,
+    "Place": "UB-116",
+    "Lat": "58°50'21.7\"N",
+    "Lon": "3°3'9.94\"W"
+  },
+  {
+    "ID": 501,
+    "Place": "Tykkikylkihylky",
+    "Lat": "59°57'33.6\"N",
+    "Lon": "24°22'48.6\"E"
+  },
+  {
+    "ID": 500,
+    "Place": "Turtle Bay",
+    "Lat": "27°16'12.96\"N",
+    "Lon": "33°54'37.2\"E"
+  },
+  {
+    "ID": 499,
+    "Place": "Tukkiproomu",
+    "Lat": "59°48'10.19\"N",
+    "Lon": "21°25'25.79\"E"
+  },
+  {
+    "ID": 498,
+    "Place": "Tugboat nro 761",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 497,
+    "Place": "Truttkobben",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 496,
+    "Place": "Tortugas",
+    "Lat": "20°33'5.76\"N",
+    "Lon": "87°5'18.96\"W"
+  },
+  {
+    "ID": 495,
+    "Place": "Toras",
+    "Lat": "60°22'25\"N",
+    "Lon": "26°45'24.98\"E"
+  },
+  {
+    "ID": 494,
+    "Place": "Tiilijarvi",
+    "Lat": "61°0'12.06\"N",
+    "Lon": "25°30'34.02\"E"
+  },
+  {
+    "ID": 493,
+    "Place": "Three Trees",
+    "Lat": "8°34'51.67\"N",
+    "Lon": "97°39'33.08\"E"
+  },
+  {
+    "ID": 492,
+    "Place": "Thistlegorm",
+    "Lat": "27°48'30.6\"N",
+    "Lon": "33°55'7.32\"E"
+  },
+  {
+    "ID": 491,
+    "Place": "Tg_Soli",
+    "Lat": "3°38'32.16\"S",
+    "Lon": "128°20'56.94\"E"
+  },
+  {
+    "ID": 490,
+    "Place": "Talisay pier",
+    "Lat": "9°52'13.26\"N",
+    "Lon": "123°46'40.8\"E"
+  },
+  {
+    "ID": 489,
+    "Place": "Taistensalmi",
+    "Lat": "61°23'20.82\"N",
+    "Lon": "27°41'58.33\"E"
+  },
+  {
+    "ID": 488,
+    "Place": "T-54 Kljuz",
+    "Lat": "59°59'52.86\"N",
+    "Lon": "25°29'43.62\"E"
+  },
+  {
+    "ID": 487,
+    "Place": "Syskonen",
+    "Lat": "60°3'25.14\"N",
+    "Lon": "24°38'44.1\"E"
+  },
+  {
+    "ID": 486,
+    "Place": "Svinoyflua",
+    "Lat": "63°52'35.4\"N",
+    "Lon": "9°45'44.11\"E"
+  },
+  {
+    "ID": 485,
+    "Place": "Suuri Riuttasaari",
+    "Lat": "61°24'21.6\"N",
+    "Lon": "27°37'57.48\"E"
+  },
+  {
+    "ID": 484,
+    "Place": "Suuri Kirnusaari",
+    "Lat": "61°23'49.61\"N",
+    "Lon": "27°40'21.5\"E"
+  },
+  {
+    "ID": 482,
+    "Place": "Sundsborg",
+    "Lat": "59°53'47\"N",
+    "Lon": "24°25'53\"E"
+  },
+  {
+    "ID": 481,
+    "Place": "Sukellusareena",
+    "Lat": "60°16'56.44\"N",
+    "Lon": "24°24'20.75\"E"
+  },
+  {
+    "ID": 480,
+    "Place": "M-97 Submarine",
+    "Lat": "59°51'3.18\"N",
+    "Lon": "24°26'25.5\"E"
+  },
+  {
+    "ID": 479,
+    "Place": "Straits of Macinack wreck",
+    "Lat": "42°3'29.52\"N",
+    "Lon": "87°32'55.32\"W"
+  },
+  {
+    "ID": 478,
+    "Place": "STB Fishing Trawler",
+    "Lat": "58°35'33.36\"N",
+    "Lon": "22°8'59.34\"E"
+  },
+  {
+    "ID": 476,
+    "Place": "St. John Caves (Umm Chararim)",
+    "Lat": "23°38'12.36\"N",
+    "Lon": "35°49'36.42\"E"
+  },
+  {
+    "ID": 475,
+    "Place": "South point",
+    "Lat": "9°51'36.04\"N",
+    "Lon": "123°45'54\"E"
+  },
+  {
+    "ID": 474,
+    "Place": "Small Gubal barge",
+    "Lat": "27°36'41.76\"N",
+    "Lon": "33°47'43.8\"E"
+  },
+  {
+    "ID": 473,
+    "Place": "Skjoreoya west of lighthouse",
+    "Lat": "63°52'46.89\"N",
+    "Lon": "9°46'48.23\"E"
+  },
+  {
+    "ID": 472,
+    "Place": "Skjoreoya east of lighthouse",
+    "Lat": "63°53'14.1\"N",
+    "Lon": "9°48'35.14\"E"
+  },
+  {
+    "ID": 471,
+    "Place": "Siyul Kebir",
+    "Lat": "27°40'40.51\"N",
+    "Lon": "33°48'17.89\"E"
+  },
+  {
+    "ID": 470,
+    "Place": "Simply the best Thila (Meemu)",
+    "Lat": "2°55'43.9\"N",
+    "Lon": "73°33'49.28\"E"
+  },
+  {
+    "ID": 469,
+    "Place": "Silver Rain Giri (Gaafu)",
+    "Lat": "0°50'50.24\"N",
+    "Lon": "73°21'41.58\"E"
+  },
+  {
+    "ID": 468,
+    "Place": "Shotan Maru",
+    "Lat": "7°21'43.8\"N",
+    "Lon": "151°55'4.7\"E"
+  },
+  {
+    "ID": 467,
+    "Place": "Shiriniat or Ashelaniat",
+    "Lat": "24°36'24.18\"N",
+    "Lon": "35°17'42.3\"E"
+  },
+  {
+    "ID": 466,
+    "Place": "Shinkoku Maru",
+    "Lat": "7°24'0.4\"N",
+    "Lon": "151°46'44.8\"E"
+  },
+  {
+    "ID": 465,
+    "Place": "Sharks and Rays (Laamu)",
+    "Lat": "1°49'2.09\"N",
+    "Lon": "73°26'7.31\"E"
+  },
+  {
+    "ID": 464,
+    "Place": "Shark Point",
+    "Lat": "7°49'16.36\"N",
+    "Lon": "98°39'48.28\"E"
+  },
+  {
+    "ID": 463,
+    "Place": "Shark dive",
+    "Lat": "7°30'59.45\"N",
+    "Lon": "151°58'19.16\"E"
+  },
+  {
+    "ID": 462,
+    "Place": "Shark and Yolanda Reefs at Ras Mohammed",
+    "Lat": "27°44'30.48\"N",
+    "Lon": "34°16'10.86\"E"
+  },
+  {
+    "ID": 461,
+    "Place": "Shallal",
+    "Lat": "22°14'50.64\"N",
+    "Lon": "36°47'32.76\"E"
+  },
+  {
+    "ID": 460,
+    "Place": "Shaab Sharm West",
+    "Lat": "24°47'19.26\"N",
+    "Lon": "35°10'30.56\"E"
+  },
+  {
+    "ID": 459,
+    "Place": "Shaab Sharm East",
+    "Lat": "24°47'15.24\"N",
+    "Lon": "35°10'51.54\"E"
+  },
+  {
+    "ID": 458,
+    "Place": "Shaab El Naba",
+    "Lat": "25°19'0.18\"N",
+    "Lon": "34°45'57.18\"E"
+  },
+  {
+    "ID": 457,
+    "Place": "Shaab Marsa Alam",
+    "Lat": "25°18'49.07\"N",
+    "Lon": "34°46'4.58\"E"
+  },
+  {
+    "ID": 456,
+    "Place": "Shaab Maksour North Plateau",
+    "Lat": "24°11'17.16\"N",
+    "Lon": "35°39'2.27\"E"
+  },
+  {
+    "ID": 455,
+    "Place": "Shaab El Erg",
+    "Lat": "27°24'32.28\"N",
+    "Lon": "33°51'16.44\"E"
+  },
+  {
+    "ID": 454,
+    "Place": "Shaab Claudio",
+    "Lat": "24°13'12.24\"N",
+    "Lon": "35°36'43.02\"E"
+  },
+  {
+    "ID": 453,
+    "Place": "Seventh Heaven",
+    "Lat": "3°34'11.7\"N",
+    "Lon": "72°56'24.55\"E"
+  },
+  {
+    "ID": 452,
+    "Place": "Serenaka Island",
+    "Lat": "23°49'50.34\"N",
+    "Lon": "35°48'34.68\"E"
+  },
+  {
+    "ID": 451,
+    "Place": "Seiko Maru",
+    "Lat": "7°21'41.1\"N",
+    "Lon": "151°54'15\"E"
+  },
+  {
+    "ID": 450,
+    "Place": "Secret Wall",
+    "Lat": "11°21'8.1\"N",
+    "Lon": "124°7'2.35\"E"
+  },
+  {
+    "ID": 449,
+    "Place": "Hiidenmaa Seals shoal",
+    "Lat": "59°5'14.28\"N",
+    "Lon": "22°52'14.46\"E"
+  },
+  {
+    "ID": 448,
+    "Place": "Sataya South",
+    "Lat": "24°9'24.72\"N",
+    "Lon": "35°42'45.3\"E"
+  },
+  {
+    "ID": 447,
+    "Place": "Sankisan Maru",
+    "Lat": "7°17'43.7\"N",
+    "Lon": "151°52'8.2\"E"
+  },
+  {
+    "ID": 446,
+    "Place": "San Fransisco Maru",
+    "Lat": "7°21'50.6\"N",
+    "Lon": "151°54'36.7\"E"
+  },
+  {
+    "ID": 445,
+    "Place": "Salmo II",
+    "Lat": "59°55'49.38\"N",
+    "Lon": "24°24'58.26\"E"
+  },
+  {
+    "ID": 444,
+    "Place": "Salem Express",
+    "Lat": "26°39'1.08\"N",
+    "Lon": "34°3'47.88\"E"
+  },
+  {
+    "ID": 443,
+    "Place": "Sail Rock",
+    "Lat": "9°56'41.46\"N",
+    "Lon": "99°59'24\"E"
+  },
+  {
+    "ID": 442,
+    "Place": "Sabina Garden Big Giftun",
+    "Lat": "27°12'4.34\"N",
+    "Lon": "33°57'18.8\"E"
+  },
+  {
+    "ID": 441,
+    "Place": "Sabalos",
+    "Lat": "20°34'5.88\"N",
+    "Lon": "87°5'22.2\"W"
+  },
+  {
+    "ID": 440,
+    "Place": "Saaksjarvi (LSSJK)",
+    "Lat": "60°30'49.98\"N",
+    "Lon": "24°41'18.84\"E"
+  },
+  {
+    "ID": 438,
+    "Place": "SS Gullkrona",
+    "Lat": "58°43'52.08\"N",
+    "Lon": "22°18'25.92\"E"
+  },
+  {
+    "ID": 437,
+    "Place": "SS Est Eki",
+    "Lat": "59°52'32.04\"N",
+    "Lon": "23°51'56.82\"E"
+  },
+  {
+    "ID": 436,
+    "Place": "Rysakarin proomu",
+    "Lat": "60°6'35.53\"N",
+    "Lon": "24°50'35.44\"E"
+  },
+  {
+    "ID": 435,
+    "Place": "Ruskeasannan monttu",
+    "Lat": "60°18'56.99\"N",
+    "Lon": "24°59'27.85\"E"
+  },
+  {
+    "ID": 434,
+    "Place": "Rotterdam",
+    "Lat": "60°23'43.2\"N",
+    "Lon": "19°29'7.8\"E"
+  },
+  {
+    "ID": 433,
+    "Place": "Rosalie Moller",
+    "Lat": "27°39'1.22\"N",
+    "Lon": "33°46'17.87\"E"
+  },
+  {
+    "ID": 432,
+    "Place": "Ronnbuskenin tykit",
+    "Lat": "60°0'57.6\"N",
+    "Lon": "24°37'30.6\"E"
+  },
+  {
+    "ID": 431,
+    "Place": "Rocky Island west wall",
+    "Lat": "23°33'48.23\"N",
+    "Lon": "36°14'35.09\"E"
+  },
+  {
+    "ID": 430,
+    "Place": "Rocky Island NW-E",
+    "Lat": "23°33'55.45\"N",
+    "Lon": "36°14'43.59\"E"
+  },
+  {
+    "ID": 428,
+    "Place": "Rio de Janeiro Maru",
+    "Lat": "7°18'15.8\"N",
+    "Lon": "151°53'40.8\"E"
+  },
+  {
+    "ID": 427,
+    "Place": "Rigel",
+    "Lat": "60°0'0.6\"N",
+    "Lon": "24°18'42.6\"E"
+  },
+  {
+    "ID": 426,
+    "Place": "Richelieu Rock",
+    "Lat": "9°21'49.32\"N",
+    "Lon": "97°59'0.96\"E"
+  },
+  {
+    "ID": 425,
+    "Place": "Reethi Thila",
+    "Lat": "3°45'30.25\"N",
+    "Lon": "72°45'40.5\"E"
+  },
+  {
+    "ID": 424,
+    "Place": "Rashdoo Madivaru",
+    "Lat": "4°15'54\"N",
+    "Lon": "73°0'2.94\"E"
+  },
+  {
+    "ID": 422,
+    "Place": "Ras Torombi",
+    "Lat": "25°39'48.24\"N",
+    "Lon": "34°35'17.16\"E"
+  },
+  {
+    "ID": 421,
+    "Place": "Ras Shona",
+    "Lat": "25°28'16.22\"N",
+    "Lon": "34°41'30.09\"E"
+  },
+  {
+    "ID": 420,
+    "Place": "Rantajyrkanne",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 419,
+    "Place": "Vano rantadyykki yo",
+    "Lat": "59°52'10.38\"N",
+    "Lon": "22°10'19.68\"E"
+  },
+  {
+    "ID": 418,
+    "Place": "Rantadyykki veneesta",
+    "Lat": "60°14'31.91\"N",
+    "Lon": "25°32'14.56\"E"
+  },
+  {
+    "ID": 414,
+    "Place": "Rangali Madivaru",
+    "Lat": "3°35'43.76\"N",
+    "Lon": "72°43'8.78\"E"
+  },
+  {
+    "ID": 413,
+    "Place": "Rakeedhoo",
+    "Lat": "3°18'55.87\"N",
+    "Lon": "73°28'26.67\"E"
+  },
+  {
+    "ID": 412,
+    "Place": "Radhdhiggaa Reef",
+    "Lat": "3°45'8.5\"N",
+    "Lon": "72°46'20.1\"E"
+  },
+  {
+    "ID": 411,
+    "Place": "Puuhylky",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 410,
+    "Place": "Pulau Wai P-47",
+    "Lat": "0°42'8.25\"S",
+    "Lon": "130°42'23.99\"E"
+  },
+  {
+    "ID": 409,
+    "Place": "Pulau Koon",
+    "Lat": "3°55'46.84\"S",
+    "Lon": "131°12'37.14\"E"
+  },
+  {
+    "ID": 408,
+    "Place": "Pretty in Pink Thila",
+    "Lat": "2°54'33.36\"N",
+    "Lon": "73°31'15.68\"E"
+  },
+  {
+    "ID": 407,
+    "Place": "Predium Beach",
+    "Lat": "59°54'21.31\"N",
+    "Lon": "23°17'6.18\"E"
+  },
+  {
+    "ID": 406,
+    "Place": "Poseidon Reef",
+    "Lat": "27°23'41.76\"N",
+    "Lon": "33°52'21.84\"E"
+  },
+  {
+    "ID": 405,
+    "Place": "Porkkalan tiilihylky",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 404,
+    "Place": "Porkkalan Marina",
+    "Lat": "59°58'58.78\"N",
+    "Lon": "24°25'28.49\"E"
+  },
+  {
+    "ID": 403,
+    "Place": "Porkkalan keittokatos",
+    "Lat": "59°59'3.12\"N",
+    "Lon": "24°24'17.64\"E"
+  },
+  {
+    "ID": 401,
+    "Place": "Plus",
+    "Lat": "60°2'31.19\"N",
+    "Lon": "19°53'52.31\"E"
+  },
+  {
+    "ID": 400,
+    "Place": "Pirtu Veera",
+    "Lat": "59°49'45.36\"N",
+    "Lon": "22°52'32.88\"E"
+  },
+  {
+    "ID": 399,
+    "Place": "Pikkalan monttu",
+    "Lat": "60°4'52.85\"N",
+    "Lon": "24°17'56.59\"E"
+  },
+  {
+    "ID": 398,
+    "Place": "Paradise reef",
+    "Lat": "23°37'28.56\"N",
+    "Lon": "35°49'23.04\"E"
+  },
+  {
+    "ID": 396,
+    "Place": "Panorama Reef",
+    "Lat": "26°44'55.14\"N",
+    "Lon": "34°4'57.32\"E"
+  },
+  {
+    "ID": 395,
+    "Place": "Palm Mar Wall",
+    "Lat": "28°1'56.28\"N",
+    "Lon": "16°42'37.44\"W"
+  },
+  {
+    "ID": 394,
+    "Place": "Palm Mar Cave",
+    "Lat": "28°1'48\"N",
+    "Lon": "16°42'27.72\"W"
+  },
+  {
+    "ID": 393,
+    "Place": "Oxhuvudetin hylky",
+    "Lat": "60°7'38.64\"N",
+    "Lon": "25°22'46.56\"E"
+  },
+  {
+    "ID": 392,
+    "Place": "ostergardsharun ja Suomi",
+    "Lat": "59°51'30.72\"N",
+    "Lon": "22°51'17.04\"E"
+  },
+  {
+    "ID": 391,
+    "Place": "orskar pohjoisranta",
+    "Lat": "60°2'17.56\"N",
+    "Lon": "24°41'37.18\"E"
+  },
+  {
+    "ID": 390,
+    "Place": "Orion",
+    "Lat": "60°1'13.56\"N",
+    "Lon": "24°52'45\"E"
+  },
+  {
+    "ID": 388,
+    "Place": "Orimas Thila",
+    "Lat": "3°58'59.99\"N",
+    "Lon": "72°57'0\"E"
+  },
+  {
+    "ID": 387,
+    "Place": "Orabi",
+    "Lat": "23°37'24.3\"N",
+    "Lon": "35°49'18.36\"E"
+  },
+  {
+    "ID": 386,
+    "Place": "Ojamo avopuoli",
+    "Lat": "60°14'23.09\"N",
+    "Lon": "24°1'59.11\"E"
+  },
+  {
+    "ID": 385,
+    "Place": "Ohrob 7 shallow habilis",
+    "Lat": "22°39'57.9\"N",
+    "Lon": "36°34'9.3\"E"
+  },
+  {
+    "ID": 384,
+    "Place": "Ohrob 7 deep habilis",
+    "Lat": "22°39'57.9\"N",
+    "Lon": "36°34'9.3\"E"
+  },
+  {
+    "ID": 382,
+    "Place": "Ameth Wall (Nusa Laut)",
+    "Lat": "3°38'27.84\"S",
+    "Lon": "128°47'27.6\"E"
+  },
+  {
+    "ID": 381,
+    "Place": "Ameth Sandy (Nusa Laut)",
+    "Lat": "3°38'21.06\"S",
+    "Lon": "128°47'44.34\"E"
+  },
+  {
+    "ID": 379,
+    "Place": "North point",
+    "Lat": "11°21'2.74\"N",
+    "Lon": "124°6'57.89\"E"
+  },
+  {
+    "ID": 378,
+    "Place": "Norra Kalvskar",
+    "Lat": "59°50'30.42\"N",
+    "Lon": "19°57'6.3\"E"
+  },
+  {
+    "ID": 377,
+    "Place": "No name kandu",
+    "Lat": "2°31'9.04\"N",
+    "Lon": "73°13'51.91\"E"
+  },
+  {
+    "ID": 376,
+    "Place": "Nippo Maru",
+    "Lat": "7°22'57.3\"N",
+    "Lon": "151°54'37\"E"
+  },
+  {
+    "ID": 375,
+    "Place": "Nilandhoo Kandu (Gaafu)",
+    "Lat": "0°37'52.74\"N",
+    "Lon": "73°27'20.16\"E"
+  },
+  {
+    "ID": 374,
+    "Place": "Nederland",
+    "Lat": "60°1'48.6\"N",
+    "Lon": "19°52'15.6\"E"
+  },
+  {
+    "ID": 373,
+    "Place": "Necati Pehlavan (Sanny)",
+    "Lat": "59°50'28.14\"N",
+    "Lon": "19°56'55.2\"E"
+  },
+  {
+    "ID": 372,
+    "Place": "Nagano Maru",
+    "Lat": "7°21'57.5\"N",
+    "Lon": "151°54'52\"E"
+  },
+  {
+    "ID": 371,
+    "Place": "mysteerihylky (1800 luku)",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 370,
+    "Place": "Munin",
+    "Lat": "59°58'47.04\"N",
+    "Lon": "25°32'6.72\"E"
+  },
+  {
+    "ID": 369,
+    "Place": "Mulan hylky",
+    "Lat": "59°48'26.4\"N",
+    "Lon": "23°3'54.42\"E"
+  },
+  {
+    "ID": 368,
+    "Place": "Planet",
+    "Lat": "59°59'21.6\"N",
+    "Lon": "20°6'26.4\"E"
+  },
+  {
+    "ID": 367,
+    "Place": "Mu Koh Surin",
+    "Lat": "9°25'23.23\"N",
+    "Lon": "97°53'13.92\"E"
+  },
+  {
+    "ID": 366,
+    "Place": "Moofushi Kandu",
+    "Lat": "3°52'55.32\"N",
+    "Lon": "72°42'42\"E"
+  },
+  {
+    "ID": 365,
+    "Place": "Momokawa Maru",
+    "Lat": "7°22'23.5\"N",
+    "Lon": "151°54'28.7\"E"
+  },
+  {
+    "ID": 364,
+    "Place": "Moche",
+    "Lat": "20°36'35.89\"N",
+    "Lon": "87°2'53.16\"W"
+  },
+  {
+    "ID": 363,
+    "Place": "Moad Shoal",
+    "Lat": "11°18'49.1\"N",
+    "Lon": "124°8'27.49\"E"
+  },
+  {
+    "ID": 362,
+    "Place": "Miyaru Kandu",
+    "Lat": "3°34'51.6\"N",
+    "Lon": "73°30'23.4\"E"
+  },
+  {
+    "ID": 361,
+    "Place": "Miyaru Faru at Gulhu Kandhu",
+    "Lat": "3°59'15.76\"N",
+    "Lon": "73°30'57.24\"E"
+  },
+  {
+    "ID": 360,
+    "Place": "Three Sisters (Misool)",
+    "Lat": "2°10'33.5\"S",
+    "Lon": "130°36'58.47\"E"
+  },
+  {
+    "ID": 359,
+    "Place": "Razor Rock  (Misool)",
+    "Lat": "2°10'45\"S",
+    "Lon": "130°37'44\"E"
+  },
+  {
+    "ID": 358,
+    "Place": "Nudi Rock  (Misool)",
+    "Lat": "2°13'6.2\"S",
+    "Lon": "130°34'18.52\"E"
+  },
+  {
+    "ID": 357,
+    "Place": "No Contest new site (Misool)",
+    "Lat": "2°11'43\"S",
+    "Lon": "130°41'31\"E"
+  },
+  {
+    "ID": 356,
+    "Place": "Karang Bayangan (Misool)",
+    "Lat": "2°13'18.22\"S",
+    "Lon": "130°36'43.56\"E"
+  },
+  {
+    "ID": 355,
+    "Place": "Jamur Boo Timur  (Misool)",
+    "Lat": "2°13'25.17\"S",
+    "Lon": "130°36'32.97\"E"
+  },
+  {
+    "ID": 354,
+    "Place": "Jamur Boo  (Misool)",
+    "Lat": "2°13'17.6\"S",
+    "Lon": "130°36'31.97\"E"
+  },
+  {
+    "ID": 353,
+    "Place": "Gorgonian Passage  (Misool)",
+    "Lat": "2°13'23.01\"S",
+    "Lon": "130°36'17.14\"E"
+  },
+  {
+    "ID": 352,
+    "Place": "Fiabacet Pinnacle  (Misool)",
+    "Lat": "2°12'47.38\"S",
+    "Lon": "130°33'55.04\"E"
+  },
+  {
+    "ID": 350,
+    "Place": "Miniya or El Mina",
+    "Lat": "27°13'39.43\"N",
+    "Lon": "33°50'51.94\"E"
+  },
+  {
+    "ID": 349,
+    "Place": "Micro Trader",
+    "Lat": "7°20'57.23\"N",
+    "Lon": "151°52'58.12\"E"
+  },
+  {
+    "ID": 348,
+    "Place": "Meriturva pool",
+    "Lat": "60°14'29.88\"N",
+    "Lon": "24°3'34.98\"E"
+  },
+  {
+    "ID": 347,
+    "Place": "Meijerfeldtin tykkilavetit",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 346,
+    "Place": "Meemu south rim inside (night)",
+    "Lat": "2°48'6.37\"N",
+    "Lon": "73°25'15.4\"E"
+  },
+  {
+    "ID": 345,
+    "Place": "Medhufushi Thila",
+    "Lat": "2°56'50.38\"N",
+    "Lon": "73°32'18.72\"E"
+  },
+  {
+    "ID": 344,
+    "Place": "Medhu Kandu",
+    "Lat": "3°37'11.93\"N",
+    "Lon": "73°30'32.04\"E"
+  },
+  {
+    "ID": 343,
+    "Place": "Matinkylan uimaranta",
+    "Lat": "60°8'58.41\"N",
+    "Lon": "24°45'22.28\"E"
+  },
+  {
+    "ID": 342,
+    "Place": "Martta",
+    "Lat": "60°13'47.4\"N",
+    "Lon": "25°34'14.4\"E"
+  },
+  {
+    "ID": 341,
+    "Place": "Marsa Shouna",
+    "Lat": "25°30'35.4\"N",
+    "Lon": "34°39'11.04\"E"
+  },
+  {
+    "ID": 340,
+    "Place": "Marsa Abu Dabab. Outside bay",
+    "Lat": "25°20'44.08\"N",
+    "Lon": "34°44'30.08\"E"
+  },
+  {
+    "ID": 339,
+    "Place": "Marsa Abu Dabab. inside bay (Dugong)",
+    "Lat": "25°20'22.86\"N",
+    "Lon": "34°44'20.19\"E"
+  },
+  {
+    "ID": 338,
+    "Place": "Markgraf",
+    "Lat": "58°53'51.36\"N",
+    "Lon": "3°11'40.2\"W"
+  },
+  {
+    "ID": 337,
+    "Place": "Mango Bay West",
+    "Lat": "10°7'35.29\"N",
+    "Lon": "99°49'39.72\"E"
+  },
+  {
+    "ID": 336,
+    "Place": "Mango Bay east",
+    "Lat": "10°7'33.47\"N",
+    "Lon": "99°50'5.67\"E"
+  },
+  {
+    "ID": 335,
+    "Place": "Mandarin fishes",
+    "Lat": "11°20'35.59\"N",
+    "Lon": "124°6'31.39\"E"
+  },
+  {
+    "ID": 334,
+    "Place": "Mallaslinnoitus",
+    "Lat": "61°24'15.92\"N",
+    "Lon": "27°41'21.72\"E"
+  },
+  {
+    "ID": 333,
+    "Place": "Malahi the playgound",
+    "Lat": "24°11'55.26\"N",
+    "Lon": "35°39'41.34\"E"
+  },
+  {
+    "ID": 332,
+    "Place": "Malag El Desha",
+    "Lat": "27°2'46.9\"N",
+    "Lon": "33°54'36.27\"E"
+  },
+  {
+    "ID": 331,
+    "Place": "Maaya Thila",
+    "Lat": "4°5'28.07\"N",
+    "Lon": "72°51'43.65\"E"
+  },
+  {
+    "ID": 330,
+    "Place": "Maaya Lagoon mantas",
+    "Lat": "4°4'36.84\"N",
+    "Lon": "72°52'56.64\"E"
+  },
+  {
+    "ID": 329,
+    "Place": "Maarehaa Kandu (Gaafu)",
+    "Lat": "0°34'36.36\"N",
+    "Lon": "73°31'12\"E"
+  },
+  {
+    "ID": 328,
+    "Place": "Maamigili Beyru",
+    "Lat": "3°28'7.32\"N",
+    "Lon": "72°49'14.94\"E"
+  },
+  {
+    "ID": 327,
+    "Place": "Maagiri Rock",
+    "Lat": "4°16'25.14\"N",
+    "Lon": "73°31'19.38\"E"
+  },
+  {
+    "ID": 326,
+    "Place": "M-94 submarine",
+    "Lat": "58°51'51.96\"N",
+    "Lon": "22°4'46.8\"E"
+  },
+  {
+    "ID": 325,
+    "Place": "M 451",
+    "Lat": "59°53'51.42\"N",
+    "Lon": "24°20'27.96\"E"
+  },
+  {
+    "ID": 324,
+    "Place": "Lysoya west tip",
+    "Lat": "63°53'19.26\"N",
+    "Lon": "9°49'25.81\"E"
+  },
+  {
+    "ID": 323,
+    "Place": "Lux Beuru",
+    "Lat": "3°31'40.38\"N",
+    "Lon": "72°55'42.78\"E"
+  },
+  {
+    "ID": 322,
+    "Place": "Luuhylky",
+    "Lat": "60°12'9.6\"N",
+    "Lon": "25°20'7.2\"E"
+  },
+  {
+    "ID": 321,
+    "Place": "LSSJK syvasukellus Coolaroon lahella",
+    "Lat": "60°0'45.78\"N",
+    "Lon": "24°52'33.47\"E"
+  },
+  {
+    "ID": 320,
+    "Place": "Lordagsflua",
+    "Lat": "63°52'36.76\"N",
+    "Lon": "9°47'8.78\"E"
+  },
+  {
+    "ID": 319,
+    "Place": "Looc",
+    "Lat": "9°53'30.62\"N",
+    "Lon": "123°46'19.2\"E"
+  },
+  {
+    "ID": 318,
+    "Place": "Lokrum",
+    "Lat": "42°37'19.99\"N",
+    "Lon": "18°7'6.89\"E"
+  },
+  {
+    "ID": 317,
+    "Place": "Lokhallarna",
+    "Lat": "60°2'2.12\"N",
+    "Lon": "24°40'50.06\"E"
+  },
+  {
+    "ID": 316,
+    "Place": "Little Brother north to east side",
+    "Lat": "26°18'9.19\"N",
+    "Lon": "34°51'46.68\"E"
+  },
+  {
+    "ID": 315,
+    "Place": "Little Brother north tip to west side",
+    "Lat": "26°18'8.98\"N",
+    "Lon": "34°51'40.81\"E"
+  },
+  {
+    "ID": 314,
+    "Place": "Little Brother easto to south (Gorgonias)",
+    "Lat": "26°18'5.59\"N",
+    "Lon": "34°51'50\"E"
+  },
+  {
+    "ID": 313,
+    "Place": "Linkobbenin hylky",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 312,
+    "Place": "Linjatauluhylky",
+    "Lat": "59°56'56.4\"N",
+    "Lon": "24°21'30.6\"E"
+  },
+  {
+    "ID": 311,
+    "Place": "Cabilao Lighthouse",
+    "Lat": "9°53'20.26\"N",
+    "Lon": "123°45'32.76\"E"
+  },
+  {
+    "ID": 310,
+    "Place": "Levanzo wreck",
+    "Lat": "21°59'13.8\"N",
+    "Lon": "37°2'43.98\"E"
+  },
+  {
+    "ID": 308,
+    "Place": "Leppavaaran uimahalli",
+    "Lat": "60°13'34.12\"N",
+    "Lon": "24°48'10.76\"E"
+  },
+  {
+    "ID": 307,
+    "Place": "Lauri-hylky Kaarmeluotojen vali",
+    "Lat": "60°8'47.16\"N",
+    "Lon": "24°50'53.64\"E"
+  },
+  {
+    "ID": 306,
+    "Place": "Lapu Lapu 2",
+    "Lat": "11°20'45.74\"N",
+    "Lon": "124°6'15.52\"E"
+  },
+  {
+    "ID": 305,
+    "Place": "Lanstoukki",
+    "Lat": "60°5'32.45\"N",
+    "Lon": "25°7'48.4\"E"
+  },
+  {
+    "ID": 304,
+    "Place": "Lankan manta point",
+    "Lat": "4°16'54.3\"N",
+    "Lon": "73°33'33.84\"E"
+  },
+  {
+    "ID": 303,
+    "Place": "Laglandet lansiranta",
+    "Lat": "59°47'55.72\"N",
+    "Lon": "22°55'41.52\"E"
+  },
+  {
+    "ID": 302,
+    "Place": "Ladoga",
+    "Lat": "59°47'25.56\"N",
+    "Lon": "22°17'51.9\"E"
+  },
+  {
+    "ID": 301,
+    "Place": "Kuredhdhoo Kandu South (Gaafu)",
+    "Lat": "0°38'57.15\"N",
+    "Lon": "73°26'41.92\"E"
+  },
+  {
+    "ID": 300,
+    "Place": "Kuramathi kandu",
+    "Lat": "4°15'31.44\"N",
+    "Lon": "72°59'18.3\"E"
+  },
+  {
+    "ID": 299,
+    "Place": "Kuparihylky",
+    "Lat": "59°56'47.4\"N",
+    "Lon": "24°29'1.2\"E"
+  },
+  {
+    "ID": 298,
+    "Place": "Kunavashi Kandu",
+    "Lat": "3°35'58.16\"N",
+    "Lon": "73°20'8.04\"E"
+  },
+  {
+    "ID": 297,
+    "Place": "Kultakaleeri",
+    "Lat": "60°12'6.48\"N",
+    "Lon": "25°35'31.2\"E"
+  },
+  {
+    "ID": 295,
+    "Place": "Kuda Rah Thila",
+    "Lat": "3°34'12.18\"N",
+    "Lon": "72°54'46.86\"E"
+  },
+  {
+    "ID": 294,
+    "Place": "Kuda Giri and wreck",
+    "Lat": "3°57'8.53\"N",
+    "Lon": "73°30'18.22\"E"
+  },
+  {
+    "ID": 293,
+    "Place": "Kronprinz Wilhelm",
+    "Lat": "58°53'52.44\"N",
+    "Lon": "3°11'12.48\"W"
+  },
+  {
+    "ID": 292,
+    "Place": "Kortaskar rantadyykki",
+    "Lat": "60°10'42.47\"N",
+    "Lon": "25°46'26.23\"E"
+  },
+  {
+    "ID": 291,
+    "Place": "Korkeakupu",
+    "Lat": "60°7'52.03\"N",
+    "Lon": "24°50'12.27\"E"
+  },
+  {
+    "ID": 290,
+    "Place": "Koodoo Kandu (Gaafu)",
+    "Lat": "0°43'30.3\"N",
+    "Lon": "73°26'25.26\"E"
+  },
+  {
+    "ID": 289,
+    "Place": "Konig",
+    "Lat": "58°53'60\"N",
+    "Lon": "3°2'60\"W"
+  },
+  {
+    "ID": 288,
+    "Place": "Kondey Kandu North (Gaafu)",
+    "Lat": "0°29'33.93\"N",
+    "Lon": "73°33'34.92\"E"
+  },
+  {
+    "ID": 287,
+    "Place": "Koh Tachai Twin Peaks",
+    "Lat": "9°3'38.34\"N",
+    "Lon": "97°48'49.68\"E"
+  },
+  {
+    "ID": 286,
+    "Place": "Koh Tachai North Reef",
+    "Lat": "9°4'54.66\"N",
+    "Lon": "97°48'37.48\"E"
+  },
+  {
+    "ID": 285,
+    "Place": "Koh Raya Yai",
+    "Lat": "7°35'0.1\"N",
+    "Lon": "98°21'36.72\"E"
+  },
+  {
+    "ID": 284,
+    "Place": "Koh Doc Mai",
+    "Lat": "7°47'54.6\"N",
+    "Lon": "98°31'49.44\"E"
+  },
+  {
+    "ID": 283,
+    "Place": "Koh Bon West Ridge",
+    "Lat": "8°49'42.46\"N",
+    "Lon": "97°47'51\"E"
+  },
+  {
+    "ID": 282,
+    "Place": "Koh Bon",
+    "Lat": "8°49'37.31\"N",
+    "Lon": "97°47'51.36\"E"
+  },
+  {
+    "ID": 281,
+    "Place": "Ko Bida Nok",
+    "Lat": "7°47'48.84\"N",
+    "Lon": "98°34'48.36\"E"
+  },
+  {
+    "ID": 280,
+    "Place": "Ko Bida Nai",
+    "Lat": "7°49'21.94\"N",
+    "Lon": "98°35'34.44\"E"
+  },
+  {
+    "ID": 279,
+    "Place": "Knapperskar pohjoisranta",
+    "Lat": "60°5'13.66\"N",
+    "Lon": "24°44'30.75\"E"
+  },
+  {
+    "ID": 278,
+    "Place": "Knapperskar etelaranta",
+    "Lat": "60°5'6.26\"N",
+    "Lon": "24°44'30.45\"E"
+  },
+  {
+    "ID": 277,
+    "Place": "Kiyosumi Maru",
+    "Lat": "7°22'25.7\"N",
+    "Lon": "151°50'37.2\"E"
+  },
+  {
+    "ID": 276,
+    "Place": "Kirjavaluoto",
+    "Lat": "61°25'12.11\"N",
+    "Lon": "27°41'8.74\"E"
+  },
+  {
+    "ID": 275,
+    "Place": "Kiosumi Maru",
+    "Lat": "7°22'25.7\"N",
+    "Lon": "151°50'37.2\"E"
+  },
+  {
+    "ID": 274,
+    "Place": "Kingston and Shag Rock",
+    "Lat": "27°46'39.65\"N",
+    "Lon": "33°52'32.09\"E"
+  },
+  {
+    "ID": 272,
+    "Place": "Kattilajarvi",
+    "Lat": "60°17'58.27\"N",
+    "Lon": "24°37'11.45\"E"
+  },
+  {
+    "ID": 271,
+    "Place": "Karlsruhe",
+    "Lat": "58°53'19.32\"N",
+    "Lon": "3°11'13.81\"W"
+  },
+  {
+    "ID": 270,
+    "Place": "Kansho Maru",
+    "Lat": "7°22'36.8\"N",
+    "Lon": "151°50'45\"E"
+  },
+  {
+    "ID": 269,
+    "Place": "Kandholkudhoo Thila",
+    "Lat": "4°0'3\"N",
+    "Lon": "72°52'56.79\"E"
+  },
+  {
+    "ID": 268,
+    "Place": "Kandaru Corner (Laamu)",
+    "Lat": "2°18'1.19\"N",
+    "Lon": "72°55'15.22\"E"
+  },
+  {
+    "ID": 267,
+    "Place": "Kalu Thila",
+    "Lat": "4°7'44.94\"N",
+    "Lon": "72°50'17.88\"E"
+  },
+  {
+    "ID": 266,
+    "Place": "Kalhu Handhi Huraa",
+    "Lat": "3°47'54.89\"N",
+    "Lon": "72°42'21.24\"E"
+  },
+  {
+    "ID": 265,
+    "Place": "Kaitalampi",
+    "Lat": "60°19'28.16\"N",
+    "Lon": "24°39'47.86\"E"
+  },
+  {
+    "ID": 264,
+    "Place": "Kaarmesaari pohjoisranta",
+    "Lat": "60°8'35.3\"N",
+    "Lon": "24°50'2.69\"E"
+  },
+  {
+    "ID": 262,
+    "Place": "Kaarmeluoto",
+    "Lat": "60°8'45.38\"N",
+    "Lon": "24°50'56.68\"E"
+  },
+  {
+    "ID": 260,
+    "Place": "Kaapelihylky",
+    "Lat": "59°48'24.19\"N",
+    "Lon": "22°54'32.76\"E"
+  },
+  {
+    "ID": 259,
+    "Place": "Juktensklobben wreck",
+    "Lat": "59°59'10.68\"N",
+    "Lon": "24°37'24.54\"E"
+  },
+  {
+    "ID": 258,
+    "Place": "Jossundstraumen strait",
+    "Lat": "63°50'39.21\"N",
+    "Lon": "9°48'40.7\"E"
+  },
+  {
+    "ID": 257,
+    "Place": "Jackfish Channel (Laamu)",
+    "Lat": "2°0'3.12\"N",
+    "Lon": "73°19'22.8\"E"
+  },
+  {
+    "ID": 256,
+    "Place": "Iso-Valkee",
+    "Lat": "60°30'26.94\"N",
+    "Lon": "23°43'1.43\"E"
+  },
+  {
+    "ID": 255,
+    "Place": "Isola Bella Naxos",
+    "Lat": "37°50'58.56\"N",
+    "Lon": "15°18'0.36\"E"
+  },
+  {
+    "ID": 251,
+    "Place": "Islote",
+    "Lat": "20°32'43.31\"N",
+    "Lon": "87°6'17.13\"W"
+  },
+  {
+    "ID": 250,
+    "Place": "I-169 submarine",
+    "Lat": "7°23'32.5\"N",
+    "Lon": "151°50'9.6\"E"
+  },
+  {
+    "ID": 246,
+    "Place": "Vittrask",
+    "Lat": "60°10'39.53\"N",
+    "Lon": "24°30'56.18\"E"
+  },
+  {
+    "ID": 245,
+    "Place": "Hval",
+    "Lat": "60°3'6.01\"N",
+    "Lon": "24°58'50.02\"E"
+  },
+  {
+    "ID": 244,
+    "Place": "Huru Elhi Beyru",
+    "Lat": "3°33'8.95\"N",
+    "Lon": "72°42'43.76\"E"
+  },
+  {
+    "ID": 243,
+    "Place": "Hulhudhoo Kandu",
+    "Lat": "3°28'28.99\"N",
+    "Lon": "73°32'43.01\"E"
+  },
+  {
+    "ID": 242,
+    "Place": "Cabilao House reef",
+    "Lat": "9°53'9.1\"N",
+    "Lon": "123°45'36\"E"
+  },
+  {
+    "ID": 241,
+    "Place": "Honeymoon Bay",
+    "Lat": "8°34'16.21\"N",
+    "Lon": "97°38'28.57\"E"
+  },
+  {
+    "ID": 240,
+    "Place": "Hollantilainen",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 239,
+    "Place": "Hoki Maru",
+    "Lat": "7°21'13.5\"N",
+    "Lon": "151°54'48.3\"E"
+  },
+  {
+    "ID": 238,
+    "Place": "Hogkopplan",
+    "Lat": "60°6'3.26\"N",
+    "Lon": "24°42'24.61\"E"
+  },
+  {
+    "ID": 237,
+    "Place": "HMS Myrtle",
+    "Lat": "58°35'20.94\"N",
+    "Lon": "21°46'9.66\"E"
+  },
+  {
+    "ID": 236,
+    "Place": "Hithadoo Corner (Laamu)",
+    "Lat": "1°48'17.64\"N",
+    "Lon": "73°24'21\"E"
+  },
+  {
+    "ID": 235,
+    "Place": "Hindenburg",
+    "Lat": "60°9'11.22\"N",
+    "Lon": "19°28'41.7\"E"
+  },
+  {
+    "ID": 234,
+    "Place": "Hin Bidah",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 233,
+    "Place": "Hernesaaren hylky",
+    "Lat": "60°8'56.49\"N",
+    "Lon": "24°55'59.26\"E"
+  },
+  {
+    "ID": 232,
+    "Place": "Helge (Frack)",
+    "Lat": "59°51'33.78\"N",
+    "Lon": "19°36'51.72\"E"
+  },
+  {
+    "ID": 231,
+    "Place": "Heian Maru",
+    "Lat": "7°22'58.3\"N",
+    "Lon": "151°51'20.7\"E"
+  },
+  {
+    "ID": 230,
+    "Place": "Hauensuoli",
+    "Lat": "59°48'20.52\"N",
+    "Lon": "22°54'27.72\"E"
+  },
+  {
+    "ID": 229,
+    "Place": "Hangonkylan uimaranta",
+    "Lat": "59°50'52.68\"N",
+    "Lon": "22°59'1.26\"E"
+  },
+  {
+    "ID": 228,
+    "Place": "Hanahanaa Giri (Laamu)",
+    "Lat": "1°49'22.47\"N",
+    "Lon": "73°23'42.08\"E"
+  },
+  {
+    "ID": 227,
+    "Place": "Habili Shallal",
+    "Lat": "22°14'50.64\"N",
+    "Lon": "36°47'32.76\"E"
+  },
+  {
+    "ID": 226,
+    "Place": "Habili Omran",
+    "Lat": "23°29'3.12\"N",
+    "Lon": "35°49'1.62\"E"
+  },
+  {
+    "ID": 224,
+    "Place": "Habili Gafaar",
+    "Lat": "23°25'38.82\"N",
+    "Lon": "35°52'37.02\"E"
+  },
+  {
+    "ID": 223,
+    "Place": "Habili Ali",
+    "Lat": "23°25'1.98\"N",
+    "Lon": "35°59'20.75\"E"
+  },
+  {
+    "ID": 222,
+    "Place": "Habili Albi",
+    "Lat": "22°56'55.62\"N",
+    "Lon": "36°8'57\"E"
+  },
+  {
+    "ID": 221,
+    "Place": "Guraidhoo Kandu",
+    "Lat": "3°53'8.99\"N",
+    "Lon": "73°28'8.04\"E"
+  },
+  {
+    "ID": 220,
+    "Place": "Grotta Azurrra slope Naxos",
+    "Lat": "37°51'4.32\"N",
+    "Lon": "15°18'13.32\"E"
+  },
+  {
+    "ID": 219,
+    "Place": "Green Wall",
+    "Lat": "20°35'47.47\"N",
+    "Lon": "87°1'27.98\"W"
+  },
+  {
+    "ID": 218,
+    "Place": "Greek columns",
+    "Lat": "37°50'44.27\"N",
+    "Lon": "15°17'54.38\"E"
+  },
+  {
+    "ID": 217,
+    "Place": "Granbuskenin hylky",
+    "Lat": "59°48'49.2\"N",
+    "Lon": "23°14'51.6\"E"
+  },
+  {
+    "ID": 216,
+    "Place": "Gota Wasta Fogani",
+    "Lat": "23°30'12.18\"N",
+    "Lon": "35°48'58.92\"E"
+  },
+  {
+    "ID": 215,
+    "Place": "Gota Soraya",
+    "Lat": "23°25'41.76\"N",
+    "Lon": "35°54'12.66\"E"
+  },
+  {
+    "ID": 214,
+    "Place": "Gota Shaab Sheer",
+    "Lat": "26°38'30.91\"N",
+    "Lon": "34°3'0.36\"E"
+  },
+  {
+    "ID": 212,
+    "Place": "Gota Sataya Soraya South side",
+    "Lat": "24°9'14.25\"N",
+    "Lon": "35°40'56.61\"E"
+  },
+  {
+    "ID": 211,
+    "Place": "Gota Sataya Soraya North side",
+    "Lat": "24°10'22.19\"N",
+    "Lon": "35°40'18.45\"E"
+  },
+  {
+    "ID": 210,
+    "Place": "Gota Marsa Alam",
+    "Lat": "25°4'24\"N",
+    "Lon": "34°56'9\"E"
+  },
+  {
+    "ID": 209,
+    "Place": "Gota Kebira",
+    "Lat": "23°24'56.28\"N",
+    "Lon": "35°56'28.5\"E"
+  },
+  {
+    "ID": 208,
+    "Place": "Gorgonia garden (Small Giftun SE corner)",
+    "Lat": "27°11'27.44\"N",
+    "Lon": "33°59'5.4\"E"
+  },
+  {
+    "ID": 207,
+    "Place": "Gili Trawangan",
+    "Lat": "8°21'22.8\"S",
+    "Lon": "116°2'46.32\"E"
+  },
+  {
+    "ID": 206,
+    "Place": "Giannis D (Abu Nuhas)",
+    "Lat": "27°33'26.5\"N",
+    "Lon": "33°52'57.4\"E"
+  },
+  {
+    "ID": 205,
+    "Place": "Gavle",
+    "Lat": "60°14'42.96\"N",
+    "Lon": "19°11'13.2\"E"
+  },
+  {
+    "ID": 204,
+    "Place": "Garpen wreck",
+    "Lat": "59°48'52.56\"N",
+    "Lon": "22°44'32.28\"E"
+  },
+  {
+    "ID": 201,
+    "Place": "Galten",
+    "Lat": "63°52'13.52\"N",
+    "Lon": "9°48'14.13\"E"
+  },
+  {
+    "ID": 200,
+    "Place": "Fushi Kandu",
+    "Lat": "3°27'55.62\"N",
+    "Lon": "73°39'25.92\"E"
+  },
+  {
+    "ID": 199,
+    "Place": "Furana ",
+    "Lat": "4°16'3\"N",
+    "Lon": "73°30'41.08\"E"
+  },
+  {
+    "ID": 198,
+    "Place": "Fujikawa Maru",
+    "Lat": "7°20'40.7\"N",
+    "Lon": "151°53'5.5\"E"
+  },
+  {
+    "ID": 197,
+    "Place": "Fotteyo Hurahu kandu",
+    "Lat": "3°29'18.68\"N",
+    "Lon": "73°41'55.63\"E"
+  },
+  {
+    "ID": 196,
+    "Place": "Fortuna",
+    "Lat": "60°21'31.26\"N",
+    "Lon": "26°18'37.92\"E"
+  },
+  {
+    "ID": 195,
+    "Place": "Folkkarihylky",
+    "Lat": "60°7'4.56\"N",
+    "Lon": "25°1'15.06\"E"
+  },
+  {
+    "ID": 194,
+    "Place": "Flying Dutchman",
+    "Lat": "59°46'50.82\"N",
+    "Lon": "22°55'41.82\"E"
+  },
+  {
+    "ID": 193,
+    "Place": "Fish Head (Mushimasmingili)",
+    "Lat": "3°57'23.94\"N",
+    "Lon": "72°54'52.66\"E"
+  },
+  {
+    "ID": 192,
+    "Place": "Finnbaltic",
+    "Lat": "59°48'22.21\"N",
+    "Lon": "22°59'5.39\"E"
+  },
+  {
+    "ID": 191,
+    "Place": "Fifetown London",
+    "Lat": "60°14'31.44\"N",
+    "Lon": "26°29'20.4\"E"
+  },
+  {
+    "ID": 190,
+    "Place": "Feydhoo Finolhu North Wall  night dive",
+    "Lat": "4°12'57.42\"N",
+    "Lon": "73°29'7.14\"E"
+  },
+  {
+    "ID": 189,
+    "Place": "Fesdu Wreck",
+    "Lat": "3°59'47.58\"N",
+    "Lon": "72°48'11.45\"E"
+  },
+  {
+    "ID": 188,
+    "Place": "Fanus East",
+    "Lat": "27°15'57.6\"N",
+    "Lon": "33°52'59.22\"E"
+  },
+  {
+    "ID": 187,
+    "Place": "F2",
+    "Lat": "58°51'41.44\"N",
+    "Lon": "3°12'17.5\"W"
+  },
+  {
+    "ID": 186,
+    "Place": "Esperance",
+    "Lat": "60°23'11.4\"N",
+    "Lon": "19°25'30\"E"
+  },
+  {
+    "ID": 185,
+    "Place": "Erg Somaya",
+    "Lat": "27°11'52.08\"N",
+    "Lon": "33°58'59.88\"E"
+  },
+  {
+    "ID": 184,
+    "Place": "Engelmansbrotten",
+    "Lat": "59°50'4\"N",
+    "Lon": "23°40'35.99\"E"
+  },
+  {
+    "ID": 183,
+    "Place": "Emily Flying Boat",
+    "Lat": "7°21'20.9\"N",
+    "Lon": "151°52'22.9\"E"
+  },
+  {
+    "ID": 182,
+    "Place": "Emilie",
+    "Lat": "60°6'30\"N",
+    "Lon": "25°0'30\"E"
+  },
+  {
+    "ID": 181,
+    "Place": "Elphinstone west side",
+    "Lat": "25°18'32.32\"N",
+    "Lon": "34°51'36.17\"E"
+  },
+  {
+    "ID": 180,
+    "Place": "Elphinstone South to west",
+    "Lat": "25°18'23.38\"N",
+    "Lon": "34°51'40.58\"E"
+  },
+  {
+    "ID": 179,
+    "Place": "Elphinstone South to East",
+    "Lat": "25°18'24.15\"N",
+    "Lon": "34°51'43.67\"E"
+  },
+  {
+    "ID": 178,
+    "Place": "Elphinstone north to east",
+    "Lat": "25°18'43.15\"N",
+    "Lon": "34°51'35.02\"E"
+  },
+  {
+    "ID": 177,
+    "Place": "Elephant Head Rock",
+    "Lat": "8°37'23.02\"N",
+    "Lon": "97°38'21.48\"E"
+  },
+  {
+    "ID": 176,
+    "Place": "Elba 3 reef south",
+    "Lat": "21°57'57.96\"N",
+    "Lon": "37°1'32.1\"E"
+  },
+  {
+    "ID": 175,
+    "Place": "Elba 3 reef north",
+    "Lat": "21°57'57.96\"N",
+    "Lon": "37°1'32.1\"E"
+  },
+  {
+    "ID": 174,
+    "Place": "Elba 1 south",
+    "Lat": "21°58'55.44\"N",
+    "Lon": "37°2'31.62\"E"
+  },
+  {
+    "ID": 172,
+    "Place": "El Heloug",
+    "Lat": "27°5'44.36\"N",
+    "Lon": "33°51'43.85\"E"
+  },
+  {
+    "ID": 171,
+    "Place": "El Desha",
+    "Lat": "27°2'24\"N",
+    "Lon": "33°54'7.2\"E"
+  },
+  {
+    "ID": 170,
+    "Place": "Eira",
+    "Lat": "59°45'6.6\"N",
+    "Lon": "23°16'6.6\"E"
+  },
+  {
+    "ID": 169,
+    "Place": "Eggo",
+    "Lat": "59°50'51.36\"N",
+    "Lon": "23°17'56.4\"E"
+  },
+  {
+    "ID": 168,
+    "Place": "East of Eden",
+    "Lat": "8°35'35.09\"N",
+    "Lon": "97°38'26.02\"E"
+  },
+  {
+    "ID": 167,
+    "Place": "E.Russ",
+    "Lat": "59°12'34.62\"N",
+    "Lon": "22°38'4.56\"E"
+  },
+  {
+    "ID": 166,
+    "Place": "Dunraven",
+    "Lat": "27°45'9.07\"N",
+    "Lon": "34°4'31.69\"E"
+  },
+  {
+    "ID": 165,
+    "Place": "Dresden",
+    "Lat": "58°52'12\"N",
+    "Lon": "3°8'21.98\"W"
+  },
+  {
+    "ID": 164,
+    "Place": "Doplhin Channel (Laamu)",
+    "Lat": "1°54'50.46\"N",
+    "Lon": "73°14'15.42\"E"
+  },
+  {
+    "ID": 163,
+    "Place": "Diagimili Outside (Thaa)",
+    "Lat": "2°19'36.18\"N",
+    "Lon": "73°19'27.84\"E"
+  },
+  {
+    "ID": 162,
+    "Place": "Dhidhoo Beyru",
+    "Lat": "3°29'1.6\"N",
+    "Lon": "72°52'56.48\"E"
+  },
+  {
+    "ID": 160,
+    "Place": "Delphin",
+    "Lat": "58°41'17.34\"N",
+    "Lon": "22°15'4.44\"E"
+  },
+  {
+    "ID": 159,
+    "Place": "Deep Slope",
+    "Lat": "11°20'52.84\"N",
+    "Lon": "124°6'49.03\"E"
+  },
+  {
+    "ID": 158,
+    "Place": "Daihatsu junction",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 156,
+    "Place": "Daedalus reef west side",
+    "Lat": "24°56'15.3\"N",
+    "Lon": "35°51'49.8\"E"
+  },
+  {
+    "ID": 155,
+    "Place": "Daedalus reef south",
+    "Lat": "24°55'52.86\"N",
+    "Lon": "35°52'15.78\"E"
+  },
+  {
+    "ID": 153,
+    "Place": "Daedalus reef north to east",
+    "Lat": "24°56'14.88\"N",
+    "Lon": "35°52'2.64\"E"
+  },
+  {
+    "ID": 152,
+    "Place": "Daedalus reef",
+    "Lat": "24°55'58.48\"N",
+    "Lon": "35°52'10.21\"E"
+  },
+  {
+    "ID": 151,
+    "Place": "Chrysant",
+    "Lat": "60°12'28.8\"N",
+    "Lon": "25°37'0\"E"
+  },
+  {
+    "ID": 150,
+    "Place": "Cozumel south",
+    "Lat": "20°19'27.05\"N",
+    "Lon": "87°2'17.16\"W"
+  },
+  {
+    "ID": 149,
+    "Place": "Cozumel north",
+    "Lat": "20°24'13.32\"N",
+    "Lon": "87°1'46.2\"W"
+  },
+  {
+    "ID": 148,
+    "Place": "Coral Island",
+    "Lat": "7°45'51.54\"N",
+    "Lon": "98°28'24.16\"E"
+  },
+  {
+    "ID": 137,
+    "Place": "Coolaroo",
+    "Lat": "60°1'4.08\"N",
+    "Lon": "24°52'38.28\"E"
+  },
+  {
+    "ID": 136,
+    "Place": "Coln",
+    "Lat": "58°53'31.99\"N",
+    "Lon": "3°2'60\"W"
+  },
+  {
+    "ID": 134,
+    "Place": "Chapel Point",
+    "Lat": "9°52'12.36\"N",
+    "Lon": "123°45'36\"E"
+  },
+  {
+    "ID": 133,
+    "Place": "Cenote Chac Mool",
+    "Lat": "20°24'52.06\"N",
+    "Lon": "87°22'37.99\"W"
+  },
+  {
+    "ID": 132,
+    "Place": "Brummer",
+    "Lat": "58°52'18.48\"N",
+    "Lon": "3°8'51\"W"
+  },
+  {
+    "ID": 131,
+    "Place": "Brandholmenin hylky",
+    "Lat": "60°12'24.6\"N",
+    "Lon": "25°25'43.2\"E"
+  },
+  {
+    "ID": 130,
+    "Place": "Boonsong wreck",
+    "Lat": "8°39'8.28\"N",
+    "Lon": "98°12'23.4\"E"
+  },
+  {
+    "ID": 129,
+    "Place": "Boiston lansiranta",
+    "Lat": "60°19'45.88\"N",
+    "Lon": "26°29'47.83\"E"
+  },
+  {
+    "ID": 128,
+    "Place": "Boduhithi Thila",
+    "Lat": "4°26'7.19\"N",
+    "Lon": "73°22'45.84\"E"
+  },
+  {
+    "ID": 127,
+    "Place": "Bodu Banana Reef",
+    "Lat": "4°15'45.68\"N",
+    "Lon": "73°32'3.48\"E"
+  },
+  {
+    "ID": 126,
+    "Place": "Boahura Express",
+    "Lat": "2°55'1.14\"N",
+    "Lon": "73°35'10.51\"E"
+  },
+  {
+    "ID": 125,
+    "Place": "Boadoo Faru reef (Gaafu)",
+    "Lat": "0°42'12.79\"N",
+    "Lon": "73°20'5.28\"E"
+  },
+  {
+    "ID": 124,
+    "Place": "Saaremaa Tagalaht bay (bio dive)",
+    "Lat": "58°28'27.52\"N",
+    "Lon": "22°6'7.52\"E"
+  },
+  {
+    "ID": 122,
+    "Place": "Big Brother south plateau and west dropoff",
+    "Lat": "26°18'41.67\"N",
+    "Lon": "34°50'50.13\"E"
+  },
+  {
+    "ID": 121,
+    "Place": "Big Brother Numidia wreck",
+    "Lat": "26°18'56.9\"N",
+    "Lon": "34°50'31.29\"E"
+  },
+  {
+    "ID": 120,
+    "Place": "Big Brother Aida wreck NW-drop",
+    "Lat": "26°18'48.17\"N",
+    "Lon": "34°50'34.38\"E"
+  },
+  {
+    "ID": 119,
+    "Place": "Betty Bomber",
+    "Lat": "7°21'6.6\"N",
+    "Lon": "151°52'42.1\"E"
+  },
+  {
+    "ID": 118,
+    "Place": "Belliver",
+    "Lat": "60°17'45\"N",
+    "Lon": "19°10'0\"E"
+  },
+  {
+    "ID": 117,
+    "Place": "Beaty and the Beast (Thaa)",
+    "Lat": "2°30'27.06\"N",
+    "Lon": "73°15'51.78\"E"
+  },
+  {
+    "ID": 116,
+    "Place": "Beacon Rock (night)",
+    "Lat": "27°42'12.93\"N",
+    "Lon": "34°7'29.67\"E"
+  },
+  {
+    "ID": 115,
+    "Place": "Bayern Turrets",
+    "Lat": "58°54'21.56\"N",
+    "Lon": "3°12'40.57\"W"
+  },
+  {
+    "ID": 114,
+    "Place": "Bathala thila",
+    "Lat": "4°4'30.66\"N",
+    "Lon": "72°56'46.8\"E"
+  },
+  {
+    "ID": 113,
+    "Place": "Bathala maagau kan thila (aborted)",
+    "Lat": "4°4'37.62\"N",
+    "Lon": "72°56'36.79\"E"
+  },
+  {
+    "ID": 112,
+    "Place": "Batanta Pulau Yum",
+    "Lat": "0°46'58.68\"S",
+    "Lon": "130°45'18.26\"E"
+  },
+  {
+    "ID": 111,
+    "Place": "Batanta Black Rock",
+    "Lat": "0°46'47.71\"S",
+    "Lon": "130°44'5.65\"E"
+  },
+  {
+    "ID": 110,
+    "Place": "Barranco del Aqua",
+    "Lat": "28°2'7.69\"N",
+    "Lon": "16°43'3.32\"W"
+  },
+  {
+    "ID": 109,
+    "Place": "Barracuda reef",
+    "Lat": "20°34'50.59\"N",
+    "Lon": "87°2'1.28\"W"
+  },
+  {
+    "ID": 108,
+    "Place": "Pulau Run South (Banda)",
+    "Lat": "4°34'7\"S",
+    "Lon": "129°40'9\"E"
+  },
+  {
+    "ID": 107,
+    "Place": "Pulau Run North (Banda)",
+    "Lat": "4°32'25\"S",
+    "Lon": "129°40'30\"E"
+  },
+  {
+    "ID": 106,
+    "Place": "Pulau Hatta hole in the wall (Banda)",
+    "Lat": "4°34'43.75\"S",
+    "Lon": "130°1'59.34\"E"
+  },
+  {
+    "ID": 105,
+    "Place": "Pulau Ai (Banda)",
+    "Lat": "4°30'56\"S",
+    "Lon": "129°45'42\"E"
+  },
+  {
+    "ID": 104,
+    "Place": "Banda Neira lava-flow (Banda)",
+    "Lat": "4°31'5\"S",
+    "Lon": "129°53'37\"E"
+  },
+  {
+    "ID": 103,
+    "Place": "Fallen Tree (Banda Besar)",
+    "Lat": "4°30'39\"S",
+    "Lon": "129°56'12\"E"
+  },
+  {
+    "ID": 102,
+    "Place": "Batu Kapal or Boat Rock (Banda Besar)",
+    "Lat": "4°27'30\"S",
+    "Lon": "129°56'12\"E"
+  },
+  {
+    "ID": 101,
+    "Place": "Banana Reef",
+    "Lat": "27°13'19.34\"N",
+    "Lon": "33°57'6.59\"E"
+  },
+  {
+    "ID": 100,
+    "Place": "Back Faru of Hulhumale Reef",
+    "Lat": "4°13'59.43\"N",
+    "Lon": "73°33'14.95\"E"
+  },
+  {
+    "ID": 99,
+    "Place": "Turbo tanker wreck (stern part)",
+    "Lat": "24°0'27.72\"N",
+    "Lon": "35°38'4.92\"E"
+  },
+  {
+    "ID": 98,
+    "Place": "Anita_s Reef at Koh Ha",
+    "Lat": "8°34'20.6\"N",
+    "Lon": "97°38'39.52\"E"
+  },
+  {
+    "ID": 97,
+    "Place": "angeskar",
+    "Lat": "59°59'59.85\"N",
+    "Lon": "22°12'5.62\"E"
+  },
+  {
+    "ID": 96,
+    "Place": "Anbaraa Giri",
+    "Lat": "3°22'22.49\"N",
+    "Lon": "73°26'20.91\"E"
+  },
+  {
+    "ID": 95,
+    "Place": "Amagisan Maru",
+    "Lat": "7°17'27.5\"N",
+    "Lon": "151°51'53.2\"E"
+  },
+  {
+    "ID": 94,
+    "Place": "Altair",
+    "Lat": "58°41'7.98\"N",
+    "Lon": "22°15'1.98\"E"
+  },
+  {
+    "ID": 93,
+    "Place": "Alko",
+    "Lat": "59°57'25.2\"N",
+    "Lon": "24°22'12.6\"E"
+  },
+  {
+    "ID": 92,
+    "Place": "Alimathaa house reef",
+    "Lat": "3°35'30.98\"N",
+    "Lon": "73°29'55.57\"E"
+  },
+  {
+    "ID": 91,
+    "Place": "Alimathaa circus",
+    "Lat": "3°35'26.46\"N",
+    "Lon": "73°30'1.14\"E"
+  },
+  {
+    "ID": 90,
+    "Place": "Alfred",
+    "Lat": "59°52'23.94\"N",
+    "Lon": "22°9'55.08\"E"
+  },
+  {
+    "ID": 89,
+    "Place": "Alexander II",
+    "Lat": "60°7'35.94\"N",
+    "Lon": "25°15'48.24\"E"
+  },
+  {
+    "ID": 87,
+    "Place": "Ajan Hauensuoli",
+    "Lat": "59°48'21.71\"N",
+    "Lon": "22°54'37.21\"E"
+  },
+  {
+    "ID": 86,
+    "Place": "Adamantia K.",
+    "Lat": "24°12'36.06\"N",
+    "Lon": "35°33'39.36\"E"
+  },
+  {
+    "ID": 85,
+    "Place": "Abyss Kalamota Island",
+    "Lat": "42°39'9\"N",
+    "Lon": "18°3'22.68\"E"
+  },
+  {
+    "ID": 84,
+    "Place": "Abu Nuhas",
+    "Lat": "27°34'20.34\"N",
+    "Lon": "33°55'29.82\"E"
+  },
+  {
+    "ID": 83,
+    "Place": "Marcus or Chrisoula K (Abu Nuhas)",
+    "Lat": "27°35'34.48\"N",
+    "Lon": "33°53'12.59\"E"
+  },
+  {
+    "ID": 81,
+    "Place": "Carnatic (Abu Nuhas)",
+    "Lat": "27°32'25.38\"N",
+    "Lon": "33°54'4.92\"E"
+  },
+  {
+    "ID": 80,
+    "Place": "Abu Kefan South",
+    "Lat": "26°39'7.42\"N",
+    "Lon": "34°4'25.79\"E"
+  },
+  {
+    "ID": 79,
+    "Place": "Abu Hassan",
+    "Lat": "22°7'7.98\"N",
+    "Lon": "36°51'57.78\"E"
+  },
+  {
+    "ID": 78,
+    "Place": "Abu Hashish South Ergs",
+    "Lat": "27°0'45.72\"N",
+    "Lon": "33°55'27.12\"E"
+  },
+  {
+    "ID": 77,
+    "Place": "Abu Galawa Soraya",
+    "Lat": "24°15'11.28\"N",
+    "Lon": "35°32'24\"E"
+  },
+  {
+    "ID": 76,
+    "Place": "Abu Galawa Kebir",
+    "Lat": "24°13'44.34\"N",
+    "Lon": "35°34'30.06\"E"
+  },
+  {
+    "ID": 75,
+    "Place": "Abu Fandera SE",
+    "Lat": "22°51'11.4\"N",
+    "Lon": "36°19'53.34\"E"
+  },
+  {
+    "ID": 74,
+    "Place": "Abu Fandera Habili",
+    "Lat": "22°51'11.4\"N",
+    "Lon": "36°19'53.34\"E"
+  },
+  {
+    "ID": 73,
+    "Place": "Abu Fandera Fasma East",
+    "Lat": "22°51'11.4\"N",
+    "Lon": "36°19'53.34\"E"
+  },
+  {
+    "ID": 71,
+    "Place": "Abu Dabab number 3",
+    "Lat": "25°20'40.92\"N",
+    "Lon": "34°46'41.58\"E"
+  },
+  {
+    "ID": 70,
+    "Place": "Abu Dabab number 2 and 3",
+    "Lat": "25°20'47.43\"N",
+    "Lon": "34°46'38.62\"E"
+  },
+  {
+    "ID": 69,
+    "Place": "Abu Dabab number 2",
+    "Lat": "25°20'50.4\"N",
+    "Lon": "34°46'35.7\"E"
+  },
+  {
+    "ID": 68,
+    "Place": "3 Coco",
+    "Lat": "9°52'35.15\"N",
+    "Lon": "123°45'36\"E"
+  },
+  {
+    "ID": 67,
+    "Place": "Baron Gautsch",
+    "Lat": "44°56'26.23\"N",
+    "Lon": "13°34'43.39\"E"
+  },
+  {
+    "ID": 66,
+    "Place": "Brioni",
+    "Lat": "43°1'6.9\"N",
+    "Lon": "16°13'51.37\"E"
+  },
+  {
+    "ID": 65,
+    "Place": "Bili Bok",
+    "Lat": "43°1'3.39\"N",
+    "Lon": "16°12'42.8\"E"
+  },
+  {
+    "ID": 64,
+    "Place": "B-24 Liberator Tulsamerican",
+    "Lat": "43°1'58.5\"N",
+    "Lon": "16°15'42.54\"E"
+  },
+  {
+    "ID": 63,
+    "Place": "Vis night dive",
+    "Lat": "43°3'56.3\"N",
+    "Lon": "16°11'23.18\"E"
+  },
+  {
+    "ID": 62,
+    "Place": "Nova Posta",
+    "Lat": "43°4'55.62\"N",
+    "Lon": "16°11'6.58\"E"
+  },
+  {
+    "ID": 61,
+    "Place": "Ribarical Fortunal",
+    "Lat": "43°4'16.35\"N",
+    "Lon": "16°5'1.57\"E"
+  },
+  {
+    "ID": 60,
+    "Place": "Gace",
+    "Lat": "43°0'26.54\"N",
+    "Lon": "16°6'36.82\"E"
+  },
+  {
+    "ID": 58,
+    "Place": "Porkkalan Hylkypuisto",
+    "Lat": "59°57'25.2\"N",
+    "Lon": "24°22'12.61\"E"
+  },
+  {
+    "ID": 57,
+    "Place": "Gordyi",
+    "Lat": "59°47'45.35\"N",
+    "Lon": "24°21'17.21\"E"
+  },
+  {
+    "ID": 56,
+    "Place": "Bungsberg",
+    "Lat": "59°30'29.81\"N",
+    "Lon": "24°33'2.88\"E"
+  },
+  {
+    "ID": 55,
+    "Place": "Meeme",
+    "Lat": "59°36'28.04\"N",
+    "Lon": "24°26'52.01\"E"
+  },
+  {
+    "ID": 54,
+    "Place": "Rummu quarry",
+    "Lat": "59°13'47.34\"N",
+    "Lon": "24°13'39.73\"E"
+  },
+  {
+    "ID": 53,
+    "Place": "Raa (Polaris)",
+    "Lat": "59°33'31.32\"N",
+    "Lon": "24°44'19.5\"E"
+  },
+  {
+    "ID": 52,
+    "Place": "Jenissei",
+    "Lat": "59°18'13.93\"N",
+    "Lon": "23°42'38.99\"E"
+  },
+  {
+    "ID": 51,
+    "Place": "Dago ",
+    "Lat": "59°17'28\"N",
+    "Lon": "23°21'15.84\"E"
+  },
+  {
+    "ID": 50,
+    "Place": "Linnea",
+    "Lat": "59°6'7.45\"N",
+    "Lon": "23°1'45.08\"E"
+  },
+  {
+    "ID": 49,
+    "Place": "West",
+    "Lat": "59°8'27.78\"N",
+    "Lon": "23°0'24.01\"E"
+  },
+  {
+    "ID": 48,
+    "Place": "Akula submarine",
+    "Lat": "59°8'30.06\"N",
+    "Lon": "22°11'39.78\"E"
+  },
+  {
+    "ID": 47,
+    "Place": "M-103 ",
+    "Lat": "59°13'34.5\"N",
+    "Lon": "23°6'0.14\"E"
+  },
+  {
+    "ID": 45,
+    "Place": "Christine ",
+    "Lat": "59°33'53.86\"N",
+    "Lon": "24°43'35.72\"E"
+  },
+  {
+    "ID": 44,
+    "Place": "Troll Wall",
+    "Lat": "60°57'34.9\"N",
+    "Lon": "5°7'40.95\"E"
+  },
+  {
+    "ID": 43,
+    "Place": "Frankenwald",
+    "Lat": "61°2'17.73\"N",
+    "Lon": "4°43'52.95\"E"
+  },
+  {
+    "ID": 42,
+    "Place": "Oldenburg",
+    "Lat": "61°12'27.45\"N",
+    "Lon": "5°49'4.92\"E"
+  },
+  {
+    "ID": 41,
+    "Place": "Ferndale and Parat",
+    "Lat": "61°9'15.9\"N",
+    "Lon": "5°1'18.41\"E"
+  },
+  {
+    "ID": 40,
+    "Place": "Gulen house reef",
+    "Lat": "60°57'27.62\"N",
+    "Lon": "5°7'44.81\"E"
+  },
+  {
+    "ID": 39,
+    "Place": "Vetokannas",
+    "Lat": "59°59'23.5\"N",
+    "Lon": "24°25'2.39\"E"
+  },
+  {
+    "ID": 38,
+    "Place": "Antonio",
+    "Lat": "59°54'11.77\"N",
+    "Lon": "23°16'23.81\"E"
+  },
+  {
+    "ID": 37,
+    "Place": "Klaus Oldendorff",
+    "Lat": "59°49'40.01\"N",
+    "Lon": "24°20'52.73\"E"
+  },
+  {
+    "ID": 36,
+    "Place": "Edmund",
+    "Lat": "59°56'56.26\"N",
+    "Lon": "24°30'31.32\"E"
+  },
+  {
+    "ID": 35,
+    "Place": "Konigin Luise",
+    "Lat": "60°0'24\"N",
+    "Lon": "24°58'36\"E"
+  },
+  {
+    "ID": 32,
+    "Place": "Tiilihylky",
+    "Lat": "60°4'37.2\"N",
+    "Lon": "25°0'42.84\"E"
+  },
+  {
+    "ID": 31,
+    "Place": "Cicero",
+    "Lat": "60°5'19.75\"N",
+    "Lon": "24°59'17.59\"E"
+  },
+  {
+    "ID": 30,
+    "Place": "Varisniemi",
+    "Lat": "59°50'10.32\"N",
+    "Lon": "22°55'20.93\"E"
+  },
+  {
+    "ID": 29,
+    "Place": "Jyrangonvirta",
+    "Lat": "61°12'20.34\"N",
+    "Lon": "26°0'54.31\"E"
+  },
+  {
+    "ID": 28,
+    "Place": "Iso-Melkutin",
+    "Lat": "60°44'19.02\"N",
+    "Lon": "24°4'20.1\"E"
+  },
+  {
+    "ID": 25,
+    "Place": "Porkkalan lentava hollantilainen",
+    "Lat": "59°50'28.2\"N",
+    "Lon": "24°25'7.8\"E"
+  },
+  {
+    "ID": 24,
+    "Place": "Sankbodan hylky",
+    "Lat": "59°53'49.8\"N",
+    "Lon": "24°19'10.44\"E"
+  },
+  {
+    "ID": 23,
+    "Place": "Dangerous Reef",
+    "Lat": "23°25'2.52\"N",
+    "Lon": "35°59'29.52\"E"
+  },
+  {
+    "ID": 22,
+    "Place": "Alca",
+    "Lat": "60°5'11.88\"N",
+    "Lon": "25°24'0.9\"E"
+  },
+  {
+    "ID": 21,
+    "Place": "MFP-498",
+    "Lat": "60°10'49.98\"N",
+    "Lon": "26°1'38.28\"E"
+  },
+  {
+    "ID": 20,
+    "Place": "Lea",
+    "Lat": "60°11'51.3\"N",
+    "Lon": "25°59'59.88\"E"
+  },
+  {
+    "ID": 19,
+    "Place": "Raimo Ragnar",
+    "Lat": "60°9'31.8\"N",
+    "Lon": "25°56'58.2\"E"
+  },
+  {
+    "ID": 18,
+    "Place": "Keulakuvahylky",
+    "Lat": "59°51'42.6\"N",
+    "Lon": "22°46'6\"E"
+  },
+  {
+    "ID": 17,
+    "Place": "Diana",
+    "Lat": "60°11'10.83\"N",
+    "Lon": "25°22'47.87\"E"
+  },
+  {
+    "ID": 16,
+    "Place": "Sandviken",
+    "Lat": "59°49'45.48\"N",
+    "Lon": "24°29'42.72\"E"
+  },
+  {
+    "ID": 15,
+    "Place": "Sundskar south shore",
+    "Lat": "59°47'10.17\"N",
+    "Lon": "21°24'29.25\"E"
+  },
+  {
+    "ID": 14,
+    "Place": "Sundskar west wall",
+    "Lat": "59°47'12.17\"N",
+    "Lon": "21°24'14.58\"E"
+  },
+  {
+    "ID": 13,
+    "Place": "Park Victory",
+    "Lat": "59°46'18.26\"N",
+    "Lon": "21°24'12.34\"E"
+  },
+  {
+    "ID": 12,
+    "Place": "Nesteen ranta",
+    "Lat": "61°48'9.53\"N",
+    "Lon": "29°17'44.86\"E"
+  },
+  {
+    "ID": 11,
+    "Place": "Nobelinniemen proomut",
+    "Lat": "61°45'40.12\"N",
+    "Lon": "29°22'44.27\"E"
+  },
+  {
+    "ID": 10,
+    "Place": "Valkiajarvi",
+    "Lat": "62°1'20.85\"N",
+    "Lon": "29°52'12.78\"E"
+  },
+  {
+    "ID": 9,
+    "Place": "Linnakosken voimalaitos",
+    "Lat": "61°10'51.77\"N",
+    "Lon": "28°46'55.9\"E"
+  },
+  {
+    "ID": 6,
+    "Place": "Gato Island",
+    "Lat": "11°26'50\"N",
+    "Lon": "124°1'15\"E"
+  },
+  {
+    "ID": 3,
+    "Place": "Gustaf Adolf",
+    "Lat": "60°3'2.4\"N",
+    "Lon": "24°55'34.2\"E"
+  },
+  {
+    "ID": 1,
+    "Place": "Mantas and More channel",
+    "Lat": "2°55'24.28\"N",
+    "Lon": "73°35'23.8\"E"
+  }
+]

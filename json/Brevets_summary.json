@@ -1,0 +1,57 @@
+[
+  {
+    "ID": 11,
+    "Brevet": "PADI Nitrox",
+    "Org": "PADI"
+  },
+  {
+    "ID": 10,
+    "Brevet": "Advanced Open Water Diver",
+    "Org": "PADI"
+  },
+  {
+    "ID": 9,
+    "Brevet": "Emergency Responder",
+    "Org": "PADI"
+  },
+  {
+    "ID": 8,
+    "Brevet": "Rescue Diver",
+    "Org": "PADI"
+  },
+  {
+    "ID": 7,
+    "Brevet": "Master Scuba Diver (P3 ***)",
+    "Org": "CMAS"
+  },
+  {
+    "ID": 6,
+    "Brevet": "Nitrox Gas Blender",
+    "Org": "CMAS"
+  },
+  {
+    "ID": 5,
+    "Brevet": "Advanced Nitrox Diver",
+    "Org": "TDI"
+  },
+  {
+    "ID": 4,
+    "Brevet": "Decompression Procedures Diver",
+    "Org": "TDI"
+  },
+  {
+    "ID": 3,
+    "Brevet": "Extended Range Diver",
+    "Org": "TDI"
+  },
+  {
+    "ID": 2,
+    "Brevet": "PADI OWD",
+    "Org": "PADI"
+  },
+  {
+    "ID": 1,
+    "Brevet": "Trimix Diver (60m) ",
+    "Org": "TDI"
+  }
+]

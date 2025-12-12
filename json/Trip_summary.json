@@ -1,0 +1,440 @@
+[
+  {
+    "ID": 73,
+    "TripName": "2025 Tornator (Nousu)",
+    "StartDate": "2025-09-12",
+    "EndDate": "2025-09-14"
+  },
+  {
+    "ID": 72,
+    "TripName": "2025 Sinaistar North",
+    "StartDate": "2025-07-08",
+    "EndDate": "2025-08-18"
+  },
+  {
+    "ID": 71,
+    "TripName": "2025 Emäsalo",
+    "StartDate": "2025-05-29",
+    "EndDate": "2025-05-30"
+  },
+  {
+    "ID": 70,
+    "TripName": "2024 Tavi",
+    "StartDate": "2024-08-30",
+    "EndDate": "2024-09-01"
+  },
+  {
+    "ID": 69,
+    "TripName": "2024 Sinaistar South Cruise",
+    "StartDate": "2024-07-07",
+    "EndDate": "2024-07-16"
+  },
+  {
+    "ID": 68,
+    "TripName": "2024 Raja Ampat",
+    "StartDate": "2024-02-07",
+    "EndDate": "2024-02-24"
+  },
+  {
+    "ID": 67,
+    "TripName": "2023 Istria Kroatia",
+    "StartDate": "2023-09-10",
+    "EndDate": "2023-09-15"
+  },
+  {
+    "ID": 66,
+    "TripName": "2023 Narvik",
+    "StartDate": "2023-05-07",
+    "EndDate": "2023-05-13"
+  },
+  {
+    "ID": 65,
+    "TripName": "2023 Punainen Meri DTF",
+    "StartDate": "2023-04-07",
+    "EndDate": "2023-04-15"
+  },
+  {
+    "ID": 64,
+    "TripName": "2008 Kuplan P3 (LSSJK) kurssi",
+    "StartDate": "2008-04-28",
+    "EndDate": "2008-07-31"
+  },
+  {
+    "ID": 63,
+    "TripName": "2022 Tornator",
+    "StartDate": "2022-09-16",
+    "EndDate": "2022-09-18"
+  },
+  {
+    "ID": 62,
+    "TripName": "2018 Sisilia",
+    "StartDate": "2018-07-24",
+    "EndDate": "2018-07-31"
+  },
+  {
+    "ID": 61,
+    "TripName": "2014 Pellinki",
+    "StartDate": "2014-09-13",
+    "EndDate": "2014-09-14"
+  },
+  {
+    "ID": 60,
+    "TripName": "2010 Orbiit syksy",
+    "StartDate": "2010-10-16",
+    "EndDate": "2010-10-17"
+  },
+  {
+    "ID": 59,
+    "TripName": "2009 Kuplan Pellingin leiri",
+    "StartDate": "2009-09-12",
+    "EndDate": "2009-09-13"
+  },
+  {
+    "ID": 58,
+    "TripName": "2009 Kuplan Hangon Matalat",
+    "StartDate": "2009-07-16",
+    "EndDate": "2009-07-19"
+  },
+  {
+    "ID": 57,
+    "TripName": "2009 Kuplan Utön leiri",
+    "StartDate": "2009-06-24",
+    "EndDate": "2009-06-28"
+  },
+  {
+    "ID": 56,
+    "TripName": "2010 Kuplan Utön leiri",
+    "StartDate": "2010-07-06",
+    "EndDate": "2010-07-09"
+  },
+  {
+    "ID": 55,
+    "TripName": "2009 Orbiit Kuplan syysristeily",
+    "StartDate": "2009-10-16",
+    "EndDate": "2009-10-18"
+  },
+  {
+    "ID": 54,
+    "TripName": "2009 Orbiit Kuplan kevätristeily",
+    "StartDate": "2009-04-24",
+    "EndDate": "2009-04-26"
+  },
+  {
+    "ID": 53,
+    "TripName": "2008 Kuplan Pellingin leiri",
+    "StartDate": "2008-09-13",
+    "EndDate": "2008-09-14"
+  },
+  {
+    "ID": 52,
+    "TripName": "2008 Kuplan Hangon matalat leiri",
+    "StartDate": "2008-07-26",
+    "EndDate": "2008-07-27"
+  },
+  {
+    "ID": 51,
+    "TripName": "2008 Kuplan Utön leiri",
+    "StartDate": "2008-06-27",
+    "EndDate": "2008-06-30"
+  },
+  {
+    "ID": 50,
+    "TripName": "2007 Chicago",
+    "StartDate": "2007-07-22",
+    "EndDate": "2007-07-22"
+  },
+  {
+    "ID": 49,
+    "TripName": "2007 Utö Evalla",
+    "StartDate": "2007-06-02",
+    "EndDate": "2007-06-03"
+  },
+  {
+    "ID": 48,
+    "TripName": "2006 AOWD-kurssi Hangossa",
+    "StartDate": "2006-07-29",
+    "EndDate": "2006-07-30"
+  },
+  {
+    "ID": 47,
+    "TripName": "2006 OWD-kurssin avovedet",
+    "StartDate": "2006-06-10",
+    "EndDate": "2006-06-11"
+  },
+  {
+    "ID": 46,
+    "TripName": "2022 Vasikkasaari",
+    "StartDate": "2022-08-26",
+    "EndDate": "2022-08-28"
+  },
+  {
+    "ID": 45,
+    "TripName": "2022  Vis",
+    "StartDate": "2022-07-11",
+    "EndDate": "2022-07-13"
+  },
+  {
+    "ID": 44,
+    "TripName": "2022 Viro-Orbiit",
+    "StartDate": "2022-06-11",
+    "EndDate": "2022-06-19"
+  },
+  {
+    "ID": 43,
+    "TripName": "2022 Gulen",
+    "StartDate": "2022-05-07",
+    "EndDate": "2022-05-15"
+  },
+  {
+    "ID": 42,
+    "TripName": "2021 Tornator",
+    "StartDate": "2021-10-15",
+    "EndDate": "2021-10-17"
+  },
+  {
+    "ID": 41,
+    "TripName": "2021 Porkkala",
+    "StartDate": "2021-10-01",
+    "EndDate": "2021-10-03"
+  },
+  {
+    "ID": 40,
+    "TripName": "2021 Ahvenanmaa",
+    "StartDate": "2021-06-15",
+    "EndDate": "2021-06-23"
+  },
+  {
+    "ID": 39,
+    "TripName": "2020 Hiidenmaa",
+    "StartDate": "2020-08-19",
+    "EndDate": "2020-08-23"
+  },
+  {
+    "ID": 38,
+    "TripName": "2020 Utö",
+    "StartDate": "2020-07-04",
+    "EndDate": "2020-07-10"
+  },
+  {
+    "ID": 37,
+    "TripName": "2019 Maldives Emperor Voyager",
+    "StartDate": "2019-12-07",
+    "EndDate": "2019-12-14"
+  },
+  {
+    "ID": 36,
+    "TripName": "2019 Pellinki",
+    "StartDate": "2019-08-24",
+    "EndDate": "2019-08-25"
+  },
+  {
+    "ID": 35,
+    "TripName": "2019 Hangon Matalat",
+    "StartDate": "2019-07-19",
+    "EndDate": "2019-07-21"
+  },
+  {
+    "ID": 34,
+    "TripName": "2019 Ahvenanmaa",
+    "StartDate": "2019-06-14",
+    "EndDate": "2019-06-18"
+  },
+  {
+    "ID": 33,
+    "TripName": "2019 Hiidenmaa",
+    "StartDate": "2019-05-30",
+    "EndDate": "2019-06-02"
+  },
+  {
+    "ID": 32,
+    "TripName": "2019 Scapa Flow",
+    "StartDate": "2019-05-12",
+    "EndDate": "2019-05-19"
+  },
+  {
+    "ID": 31,
+    "TripName": "2018 Tenerife",
+    "StartDate": "2018-12-28",
+    "EndDate": "2018-12-28"
+  },
+  {
+    "ID": 30,
+    "TripName": "2018 Tornator",
+    "StartDate": "2018-05-19",
+    "EndDate": "2018-05-20"
+  },
+  {
+    "ID": 29,
+    "TripName": "2018 Saarenmaa",
+    "StartDate": "2018-09-06",
+    "EndDate": "2018-09-09"
+  },
+  {
+    "ID": 28,
+    "TripName": "2018 Hangon matalat",
+    "StartDate": "2018-07-20",
+    "EndDate": "2018-07-22"
+  },
+  {
+    "ID": 27,
+    "TripName": "2018 Utö",
+    "StartDate": "2018-07-04",
+    "EndDate": "2018-07-08"
+  },
+  {
+    "ID": 26,
+    "TripName": "2018 Kupla Idän Ihmeet",
+    "StartDate": "2018-05-25",
+    "EndDate": "2018-05-27"
+  },
+  {
+    "ID": 25,
+    "TripName": "2017/18 Philippines",
+    "StartDate": "2017-12-27",
+    "EndDate": "2018-01-06"
+  },
+  {
+    "ID": 24,
+    "TripName": "2013 Kuplan Orbiit, kesäkuu",
+    "StartDate": "2013-06-07",
+    "EndDate": "2013-06-09"
+  },
+  {
+    "ID": 23,
+    "TripName": "2017 Kotkan leiri",
+    "StartDate": "2017-09-01",
+    "EndDate": "2017-09-03"
+  },
+  {
+    "ID": 22,
+    "TripName": "2017 Tornator Saimaalla",
+    "StartDate": "2017-09-01",
+    "EndDate": "2017-09-03"
+  },
+  {
+    "ID": 21,
+    "TripName": "2017 Furön Expedition",
+    "StartDate": "2017-07-14",
+    "EndDate": "2017-07-16"
+  },
+  {
+    "ID": 20,
+    "TripName": "2017 Åland",
+    "StartDate": "2017-06-07",
+    "EndDate": "2017-06-11"
+  },
+  {
+    "ID": 19,
+    "TripName": "2017 Red Sea",
+    "StartDate": "2017-04-15",
+    "EndDate": "2017-04-21"
+  },
+  {
+    "ID": 18,
+    "TripName": "2016 Finnedyket",
+    "StartDate": "2016-09-25",
+    "EndDate": "2016-09-29"
+  },
+  {
+    "ID": 17,
+    "TripName": "2014 Phuket",
+    "StartDate": "2014-07-09",
+    "EndDate": "2014-07-13"
+  },
+  {
+    "ID": 16,
+    "TripName": "2013 Koh Samui",
+    "StartDate": "2013-07-15",
+    "EndDate": "2013-07-23"
+  },
+  {
+    "ID": 15,
+    "TripName": "2011 Phuket",
+    "StartDate": "2011-06-25",
+    "EndDate": "2011-06-26"
+  },
+  {
+    "ID": 14,
+    "TripName": "2010 Gili Travangan",
+    "StartDate": "2010-07-30",
+    "EndDate": "2010-08-03"
+  },
+  {
+    "ID": 13,
+    "TripName": "2009 Red Sea, South St.Johns",
+    "StartDate": "2009-05-22",
+    "EndDate": "2009-05-27"
+  },
+  {
+    "ID": 12,
+    "TripName": "2015 Red Sea, Tech Wrecks",
+    "StartDate": "2015-04-11",
+    "EndDate": "2015-04-17"
+  },
+  {
+    "ID": 11,
+    "TripName": "2013 Truk Lagoon",
+    "StartDate": "2013-03-09",
+    "EndDate": "2013-03-21"
+  },
+  {
+    "ID": 10,
+    "TripName": "2012 Mexico, Playa Del Carmen",
+    "StartDate": "2012-07-02",
+    "EndDate": "2012-07-11"
+  },
+  {
+    "ID": 9,
+    "TripName": "2011 Raja Ampat",
+    "StartDate": "2011-03-11",
+    "EndDate": "2011-03-22"
+  },
+  {
+    "ID": 8,
+    "TripName": "2010 Red Sea, Deep South",
+    "StartDate": "2010-05-05",
+    "EndDate": "2010-05-13"
+  },
+  {
+    "ID": 7,
+    "TripName": "2009 Maldives",
+    "StartDate": "2009-02-01",
+    "EndDate": "2009-02-13"
+  },
+  {
+    "ID": 6,
+    "TripName": "2008 Red Sea, Get Wrecked",
+    "StartDate": "2008-03-28",
+    "EndDate": "2008-04-02"
+  },
+  {
+    "ID": 5,
+    "TripName": "2007 Hurghada",
+    "StartDate": "2007-12-07",
+    "EndDate": "2007-12-11"
+  },
+  {
+    "ID": 4,
+    "TripName": "2006 Thailand",
+    "StartDate": "2006-11-25",
+    "EndDate": "2006-11-30"
+  },
+  {
+    "ID": 3,
+    "TripName": "2007 Red Sea, Simply the Best",
+    "StartDate": "2007-04-11",
+    "EndDate": "2007-04-16"
+  },
+  {
+    "ID": 2,
+    "TripName": "2016 Maldives MY Sheena",
+    "StartDate": "2016-02-06",
+    "EndDate": "2016-02-21"
+  },
+  {
+    "ID": 1,
+    "TripName": "2014 Red Sea M/Y Emperor Elite",
+    "StartDate": "2014-03-27",
+    "EndDate": "2014-04-03"
+  }
+]
