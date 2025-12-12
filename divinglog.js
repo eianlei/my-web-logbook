@@ -69,7 +69,7 @@ if (typeof GALLERY_USE === 'undefined' || GALLERY_USE === false){
 } else {
   console.log("Gallery use is enabled");
   //url = window.location.origin + '/json/gallery.json'; 
-  get_gallery('/json/gallery.json');
+  get_gallery(getSubUrl('json', 'gallery.json'));
 } 
  
 
