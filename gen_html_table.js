@@ -93,7 +93,8 @@ function link_dive(number) {
 }
 
 function loadTableData(id, table) {
-    url = window.location.origin + `/html/${table}_${id}.html`;
+    //url = window.location.origin + `/html/${table}_${id}.html`;
+    url = url = getSubUrl('html', `${table}_${id}.html`);
     console.log(`Loading data for ${table} ID: ${id} from URL: ${url}`);
     loadHtmlIntoElement(url, `${table}_data`);
 }
