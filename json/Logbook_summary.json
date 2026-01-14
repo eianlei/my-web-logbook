@@ -1,5 +1,167 @@
 [
   {
+    "Number": 1092,
+    "Divedate": "2025-12-27",
+    "Entrytime": "11:15",
+    "Place": "Fihalholi Giri",
+    "Divetime": 61.0,
+    "Depth": 21.4,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1091,
+    "Divedate": "2025-12-27",
+    "Entrytime": "06:25",
+    "Place": "Miyaru Kandu",
+    "Divetime": 49.0,
+    "Depth": 31.1,
+    "Buddy": "Pasi Paavilainen"
+  },
+  {
+    "Number": 1090,
+    "Divedate": "2025-12-26",
+    "Entrytime": "17:27",
+    "Place": "Dhiggiri Giri",
+    "Divetime": 48.0,
+    "Depth": 16.2,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1089,
+    "Divedate": "2025-12-26",
+    "Entrytime": "14:47",
+    "Place": "Miyaru Kandu",
+    "Divetime": 47.0,
+    "Depth": 29.9,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1088,
+    "Divedate": "2025-12-26",
+    "Entrytime": "07:12",
+    "Place": "Kuda Rah Thila",
+    "Divetime": 56.0,
+    "Depth": 24.4,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1087,
+    "Divedate": "2025-12-25",
+    "Entrytime": "15:50",
+    "Place": "Machafushi wreck",
+    "Divetime": 53.0,
+    "Depth": 29.2,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1086,
+    "Divedate": "2025-12-25",
+    "Entrytime": "11:17",
+    "Place": "Panettone",
+    "Divetime": 56.0,
+    "Depth": 22.4,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1085,
+    "Divedate": "2025-12-25",
+    "Entrytime": "07:41",
+    "Place": "Panettone",
+    "Divetime": 64.0,
+    "Depth": 18.8,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1084,
+    "Divedate": "2025-12-24",
+    "Entrytime": "14:24",
+    "Place": "whaleshark hunt",
+    "Divetime": 46.0,
+    "Depth": 16.2,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1083,
+    "Divedate": "2025-12-24",
+    "Entrytime": "11:10",
+    "Place": "Moofushi Kandu",
+    "Divetime": 57.0,
+    "Depth": 26.8,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1082,
+    "Divedate": "2025-12-24",
+    "Entrytime": "07:49",
+    "Place": "Fish Head (Mushimasmingili)",
+    "Divetime": 57.0,
+    "Depth": 21.2,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1081,
+    "Divedate": "2025-12-23",
+    "Entrytime": "14:36",
+    "Place": "Maaya Thila",
+    "Divetime": 58.0,
+    "Depth": 22.1,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1080,
+    "Divedate": "2025-12-23",
+    "Entrytime": "10:25",
+    "Place": "Rashdoo Madivaru",
+    "Divetime": 55.0,
+    "Depth": 18.9,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1079,
+    "Divedate": "2025-12-23",
+    "Entrytime": "06:51",
+    "Place": "Madi Gaa",
+    "Divetime": 64.0,
+    "Depth": 13.6,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1078,
+    "Divedate": "2025-12-22",
+    "Entrytime": "16:59",
+    "Place": "Rashdoo Madivaru",
+    "Divetime": 53.0,
+    "Depth": 19.6,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1077,
+    "Divedate": "2025-12-22",
+    "Entrytime": "11:50",
+    "Place": "Boduhithi Thila",
+    "Divetime": 61.0,
+    "Depth": 23.3,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1076,
+    "Divedate": "2025-12-22",
+    "Entrytime": "07:32",
+    "Place": "Maagiri Rock",
+    "Divetime": 50.0,
+    "Depth": 24.6,
+    "Buddy": "Timo Vallgren"
+  },
+  {
+    "Number": 1075,
+    "Divedate": "2025-12-18",
+    "Entrytime": "20:48",
+    "Place": "Leppävaaran uimahalli",
+    "Divetime": 63.0,
+    "Depth": 4.8,
+    "Buddy": "Ian (solo dive)"
+  },
+  {
     "Number": 1074,
     "Divedate": "2025-11-20",
     "Entrytime": "21:45",
