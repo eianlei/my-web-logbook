@@ -1,5 +1,383 @@
 [
   {
+    "Number": 1133,
+    "Divedate": "2026-08-06",
+    "Entrytime": "18:53",
+    "Place": "Salmo II",
+    "Divetime": 46.0,
+    "Depth": 21.1,
+    "Buddy": "Juhani Tenhunen"
+  },
+  {
+    "Number": 1132,
+    "Divedate": "2026-08-04",
+    "Entrytime": "19:15",
+    "Place": "M 451",
+    "Divetime": 45.0,
+    "Depth": 28.4,
+    "Buddy": "Casper Tillander"
+  },
+  {
+    "Number": 1100,
+    "Divedate": "2026-07-07",
+    "Entrytime": "13:06",
+    "Place": "Suunto 7.7.2026 13.06.49",
+    "Divetime": 59.0,
+    "Depth": 16.6,
+    "Buddy": ""
+  },
+  {
+    "Number": 1131,
+    "Divedate": "2026-07-16",
+    "Entrytime": "12:53",
+    "Place": "Small Giftun",
+    "Divetime": 61.0,
+    "Depth": 27.9,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1130,
+    "Divedate": "2026-07-16",
+    "Entrytime": "06:50",
+    "Place": "Thistlegorm",
+    "Divetime": 51.0,
+    "Depth": 30.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1129,
+    "Divedate": "2026-07-15",
+    "Entrytime": "20:44",
+    "Place": "Thistlegorm",
+    "Divetime": 45.0,
+    "Depth": 27.3,
+    "Buddy": "Anne Kytömäki"
+  },
+  {
+    "Number": 1128,
+    "Divedate": "2026-07-15",
+    "Entrytime": "16:19",
+    "Place": "Thistlegorm",
+    "Divetime": 47.0,
+    "Depth": 26.4,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1127,
+    "Divedate": "2026-07-15",
+    "Entrytime": "11:36",
+    "Place": "Shark and Yolanda Reefs at Ras Mohammed",
+    "Divetime": 57.0,
+    "Depth": 28.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1126,
+    "Divedate": "2026-07-15",
+    "Entrytime": "07:11",
+    "Place": "Shark and Yolanda Reefs at Ras Mohammed",
+    "Divetime": 56.0,
+    "Depth": 28.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1125,
+    "Divedate": "2026-07-14",
+    "Entrytime": "20:57",
+    "Place": "Beacon Rock (night)",
+    "Divetime": 54.0,
+    "Depth": 13.9,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1124,
+    "Divedate": "2026-07-14",
+    "Entrytime": "16:21",
+    "Place": "Carless Reef",
+    "Divetime": 60.0,
+    "Depth": 20.4,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1123,
+    "Divedate": "2026-07-14",
+    "Entrytime": "11:18",
+    "Place": "Ras Abu Soma Bay",
+    "Divetime": 60.0,
+    "Depth": 18.7,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1122,
+    "Divedate": "2026-07-14",
+    "Entrytime": "06:53",
+    "Place": "Salem Express",
+    "Divetime": 51.0,
+    "Depth": 30.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1121,
+    "Divedate": "2026-07-13",
+    "Entrytime": "19:56",
+    "Place": "Ras Torombi",
+    "Divetime": 41.0,
+    "Depth": 15.2,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1120,
+    "Divedate": "2026-07-13",
+    "Entrytime": "17:03",
+    "Place": "Ras Torombi",
+    "Divetime": 58.0,
+    "Depth": 17.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1119,
+    "Divedate": "2026-07-13",
+    "Entrytime": "11:17",
+    "Place": "Elphinstone South to west",
+    "Divetime": 53.0,
+    "Depth": 30.8,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1118,
+    "Divedate": "2026-07-13",
+    "Entrytime": "06:12",
+    "Place": "Elphinstone north to east",
+    "Divetime": 52.0,
+    "Depth": 33.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1117,
+    "Divedate": "2026-07-12",
+    "Entrytime": "15:47",
+    "Place": "Shaab Claudio",
+    "Divetime": 55.0,
+    "Depth": 21.5,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1116,
+    "Divedate": "2026-07-12",
+    "Entrytime": "11:53",
+    "Place": "Malahi the playgound",
+    "Divetime": 60.0,
+    "Depth": 14.7,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1115,
+    "Divedate": "2026-07-12",
+    "Entrytime": "07:20",
+    "Place": "Sataya South",
+    "Divetime": 60.0,
+    "Depth": 23.4,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1114,
+    "Divedate": "2026-07-11",
+    "Entrytime": "16:50",
+    "Place": "St. John Caves (Umm Chararim)",
+    "Divetime": 56.0,
+    "Depth": 11.3,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1113,
+    "Divedate": "2026-07-11",
+    "Entrytime": "12:16",
+    "Place": "Gota Kebira",
+    "Divetime": 59.0,
+    "Depth": 24.5,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1112,
+    "Divedate": "2026-07-11",
+    "Entrytime": "07:18",
+    "Place": "Dangerous Reef",
+    "Divetime": 59.0,
+    "Depth": 24.1,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1111,
+    "Divedate": "2026-07-10",
+    "Entrytime": "19:57",
+    "Place": "Dangerous Reef",
+    "Divetime": 48.0,
+    "Depth": 19.2,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1110,
+    "Divedate": "2026-07-10",
+    "Entrytime": "15:50",
+    "Place": "Habili Gafaar",
+    "Divetime": 56.0,
+    "Depth": 28.2,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1109,
+    "Divedate": "2026-07-10",
+    "Entrytime": "10:57",
+    "Place": "Habili Ali",
+    "Divetime": 61.0,
+    "Depth": 27.9,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1108,
+    "Divedate": "2026-07-10",
+    "Entrytime": "06:24",
+    "Place": "Habili Ali",
+    "Divetime": 57.0,
+    "Depth": 27.0,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1107,
+    "Divedate": "2026-07-09",
+    "Entrytime": "16:31",
+    "Place": "Daedalus reef west side",
+    "Divetime": 80.0,
+    "Depth": 18.9,
+    "Buddy": "Liina Putsepp"
+  },
+  {
+    "Number": 1106,
+    "Divedate": "2026-07-09",
+    "Entrytime": "11:23",
+    "Place": "Daedalus reef north to east",
+    "Divetime": 57.0,
+    "Depth": 23.7,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1105,
+    "Divedate": "2026-07-09",
+    "Entrytime": "06:41",
+    "Place": "Daedalus reef north to east",
+    "Divetime": 51.0,
+    "Depth": 25.6,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1104,
+    "Divedate": "2026-07-08",
+    "Entrytime": "17:41",
+    "Place": "Elphinstone South to west",
+    "Divetime": 56.0,
+    "Depth": 29.4,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1103,
+    "Divedate": "2026-07-08",
+    "Entrytime": "11:35",
+    "Place": "Abu Dabab number 6",
+    "Divetime": 51.0,
+    "Depth": 24.6,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1102,
+    "Divedate": "2026-07-08",
+    "Entrytime": "07:08",
+    "Place": "Elphinstone north to east",
+    "Divetime": 57.0,
+    "Depth": 28.3,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1101,
+    "Divedate": "2026-07-07",
+    "Entrytime": "18:04",
+    "Place": "Abu Dabab number 2 and 3",
+    "Divetime": 53.0,
+    "Depth": 15.7,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1100,
+    "Divedate": "2026-07-07",
+    "Entrytime": "13:07",
+    "Place": "Abu Dabab number 2 and 3",
+    "Divetime": 60.0,
+    "Depth": 16.5,
+    "Buddy": "Mika Gylen"
+  },
+  {
+    "Number": 1099,
+    "Divedate": "2026-06-30",
+    "Entrytime": "12:02",
+    "Place": "Park Victory",
+    "Divetime": 36.0,
+    "Depth": 21.7,
+    "Buddy": "Emma Rista"
+  },
+  {
+    "Number": 1098,
+    "Divedate": "2026-06-29",
+    "Entrytime": "20:09",
+    "Place": "Park Victory",
+    "Divetime": 53.0,
+    "Depth": 23.7,
+    "Buddy": "Liisa Itkonen"
+  },
+  {
+    "Number": 1097,
+    "Divedate": "2026-06-29",
+    "Entrytime": "17:20",
+    "Place": "Uto sail ship",
+    "Divetime": 34.0,
+    "Depth": 39.0,
+    "Buddy": "Roope Manninen, Jouni Leppäkases"
+  },
+  {
+    "Number": 1096,
+    "Divedate": "2026-06-29",
+    "Entrytime": "09:57",
+    "Place": "Park Victory",
+    "Divetime": 50.0,
+    "Depth": 26.1,
+    "Buddy": "Sven Willgren"
+  },
+  {
+    "Number": 1095,
+    "Divedate": "2026-06-28",
+    "Entrytime": "13:36",
+    "Place": "Sundskar west wall",
+    "Divetime": 42.0,
+    "Depth": 17.1,
+    "Buddy": "Tomi Salo"
+  },
+  {
+    "Number": 1094,
+    "Divedate": "2026-06-28",
+    "Entrytime": "09:51",
+    "Place": "Park Victory",
+    "Divetime": 45.0,
+    "Depth": 26.3,
+    "Buddy": "Sven Willgren, Tapio Ilomäki"
+  },
+  {
+    "Number": 1093,
+    "Divedate": "2026-06-20",
+    "Entrytime": "13:44",
+    "Place": "Predium Beach",
+    "Divetime": 16.0,
+    "Depth": 15.7,
+    "Buddy": "Ian (solo dive)"
+  },
+  {
     "Number": 1092,
     "Divedate": "2025-12-27",
     "Entrytime": "11:15",
@@ -156,7 +534,7 @@
     "Number": 1075,
     "Divedate": "2025-12-18",
     "Entrytime": "20:48",
-    "Place": "Leppävaaran uimahalli",
+    "Place": "Leppavaaran uimahalli",
     "Divetime": 63.0,
     "Depth": 4.8,
     "Buddy": "Ian (solo dive)"

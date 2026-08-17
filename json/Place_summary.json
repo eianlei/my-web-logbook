@@ -1,5 +1,35 @@
 [
   {
+    "ID": 620,
+    "Place": "Suunto 7.7.2026 13.06.49",
+    "Lat": "25°20'40.73\"N",
+    "Lon": "34°46'40.58\"E"
+  },
+  {
+    "ID": 619,
+    "Place": "Carless Reef",
+    "Lat": "27°18'41.34\"N",
+    "Lon": "33°56'24.18\"E"
+  },
+  {
+    "ID": 618,
+    "Place": "Ras Abu Soma Bay",
+    "Lat": "26°50'38.34\"N",
+    "Lon": "34°0'16.14\"E"
+  },
+  {
+    "ID": 617,
+    "Place": "Abu Dabab number 6",
+    "Lat": null,
+    "Lon": null
+  },
+  {
+    "ID": 616,
+    "Place": "Uto sail ship",
+    "Lat": "59°46'52.68\"N",
+    "Lon": "21°19'35.58\"E"
+  },
+  {
     "ID": 615,
     "Place": "whaleshark hunt",
     "Lat": "3°46'58.12\"N",
@@ -3170,8 +3200,8 @@
   {
     "ID": 23,
     "Place": "Dangerous Reef",
-    "Lat": "23°25'2.52\"N",
-    "Lon": "35°59'29.52\"E"
+    "Lat": "23°20'24.3\"N",
+    "Lon": "35°51'18.72\"E"
   },
   {
     "ID": 22,

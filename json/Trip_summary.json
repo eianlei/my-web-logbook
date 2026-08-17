@@ -1,5 +1,17 @@
 [
   {
+    "ID": 76,
+    "TripName": "2026 Sinaistar Deep South",
+    "StartDate": "2026-07-07",
+    "EndDate": "2026-07-17"
+  },
+  {
+    "ID": 75,
+    "TripName": "2026 Utön leiri",
+    "StartDate": "2026-06-27",
+    "EndDate": "2026-07-01"
+  },
+  {
     "ID": 74,
     "TripName": "2025 Maldives Adora",
     "StartDate": "2025-12-22",
